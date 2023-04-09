@@ -232,7 +232,7 @@ integrate_seurat <- function(object_list=NULL) {
 transfer_labels <- function(reference=NULL,query=NULL,meta=NULL) {
 	require(Seurat)
 	transfer.anchors <- FindTransferAnchors(reference = reference, query = query, dims = 1:30)
-	predictions <- TransferData(anchorset = transfer.anchors, refdata = meta, dims = 1:30)
+	predictions <- TransferData(anchorset = transfer.anchors, reference = reference, refdata = meta, dims = 1:30)
 	seurat.object <- AddMetaData(query, metadata = predictions)
 	return(seurat.object)
 }
