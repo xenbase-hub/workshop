@@ -252,7 +252,7 @@ map_query <- function(reference=NULL,query=NULL,meta=NULL) {
 plot_projection <- function(seurat=NULL,name="map_query") {
 	require(Seurat)
 	require(ggplot2)
-	DimPlot(mapped, reduction = "ref.umap", group.by = "predicted.id", label = TRUE,label.size = 6, repel = T) + NoLegend()
+	DimPlot(seurat, reduction = "ref.umap", group.by = "predicted.id", label = TRUE,label.size = 6, repel = T) + NoLegend()
 	ggsave(file=paste0(name,".png"), width = 10, height = 10)
 }
 
