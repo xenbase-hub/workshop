@@ -424,7 +424,7 @@ get_obj_name <- function(object=NULL) {
 	return(deparse(substitute(object)))
 }
 
-# Takes a counts matrix with genes in the ENSEMBL format, and whether the data is human or mouse
+# Takes a list of genes in the ENSEMBL format, and whether the data is human or mouse
 # Returns a new counts matrix with gene symbols as row names, except in the case of duplicates or no matches being found
 convert_genes <- function(genes=NULL,species="human") {
 	require("org.Hs.eg.db")
