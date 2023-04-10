@@ -1,8 +1,10 @@
 # workshop
-Workshop R Functions
+Workshop Code and Examples
 
-A collection of common use cases for various R tools, organized by type of analysis.
+Includes:
 
-To use, either open within R-Studio or do source("toolbox.R")
+A collection of functions for common bioinformatics tasks in R.
 
-Can also copy and paste as needed to play around with.
+R-Markdown files from the lectures.
+
+Toy datasets to test different analyses on.
