@@ -1,0 +1,531 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length
+A0A8J0UZG1	unreviewed	A0A8J0UZG1_XENLA	40S ribosomal protein SA (37 kDa laminin receptor precursor) (37LRP) (37/67 kDa laminin receptor) (LRP/LR) (67 kDa laminin receptor) (67LR) (Laminin receptor 1) (LamR) (Laminin-binding protein precursor p40) (LBP/p40)	rpsa.S 37lrp lambr lamr1 LR lrp p40 RPSA rpsa	Xenopus laevis (African clawed frog)	307
+A0A8J1MV66	unreviewed	A0A8J1MV66_XENLA	40S ribosomal protein SA (37 kDa laminin receptor precursor) (37LRP) (37/67 kDa laminin receptor) (LRP/LR) (67 kDa laminin receptor) (67LR) (Laminin receptor 1) (LamR) (Laminin-binding protein precursor p40) (LBP/p40)	rpsa.L 37LRP 67LR lambr LamR lamr1 LBP/p40 LR lrp LRP/LR p40 RPSA rpsa	Xenopus laevis (African clawed frog)	305
+Q7ZX07	unreviewed	Q7ZX07_XENLA	40S ribosomal protein SA (37 kDa laminin receptor precursor) (37LRP) (37/67 kDa laminin receptor) (LRP/LR) (67 kDa laminin receptor) (67LR) (Laminin receptor 1) (LamR) (Laminin-binding protein precursor p40) (LBP/p40)	rpsa.S 37lrp lambr lamr1 LR lrp p40 RPSA rpsa	Xenopus laevis (African clawed frog)	306
+A2BDA2	unreviewed	A2BDA2_XENLA	40S ribosomal protein SA (37 kDa laminin receptor precursor) (37LRP) (37/67 kDa laminin receptor) (LRP/LR) (67 kDa laminin receptor) (67LR) (Laminin receptor 1) (LamR) (Laminin-binding protein precursor p40) (LBP/p40)	LOC100037080 RPSA	Xenopus laevis (African clawed frog)	295
+P02350	reviewed	RS31_XENLA	40S ribosomal protein S3-A (EC 4.2.99.18) (S1A)	rps3-a	Xenopus laevis (African clawed frog)	246
+P10665	reviewed	KS6AA_XENLA	Ribosomal protein S6 kinase 2 alpha (EC 2.7.11.1) (MAP kinase-activated protein kinase 1) (MAPK-activated protein kinase 1) (MAPKAP kinase 1) (MAPKAPK-1) (Ribosomal protein S6 kinase II alpha) (S6KII-alpha) (p90-RSK)	rps6ka	Xenopus laevis (African clawed frog)	733
+P47835	reviewed	RS32_XENLA	40S ribosomal protein S3-B (EC 4.2.99.18) (S1B)	rps3-b	Xenopus laevis (African clawed frog)	246
+Q3ZM03	reviewed	RSSA_XENLA	40S ribosomal protein SA (37 kDa laminin receptor precursor) (37LRP) (37/67 kDa laminin receptor) (LRP/LR) (67 kDa laminin receptor) (67LR) (Laminin receptor 1) (LamR) (Laminin-binding protein precursor p40) (LBP/p40)	rpsa	Xenopus laevis (African clawed frog)	306
+Q6DE73	reviewed	OGFD1_XENLA	Prolyl 3-hydroxylase OGFOD1 (EC 1.14.11.-) (2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1) (uS12 prolyl 3-hydroxylase)	ogfod1	Xenopus laevis (African clawed frog)	511
+Q9W625	reviewed	IMPCT_XENLA	Protein IMPACT (Imprinted and ancient gene protein homolog) (Ximpact)	impact	Xenopus laevis (African clawed frog)	312
+A0A1L8FRI6	unreviewed	A0A1L8FRI6_XENLA	DNA topoisomerase 2 (EC 5.6.2.2)	top2b.S	Xenopus laevis (African clawed frog)	1695
+A0A1L8FW96	unreviewed	A0A1L8FW96_XENLA	DNA topoisomerase 2 (EC 5.6.2.2)	top2b.L	Xenopus laevis (African clawed frog)	1696
+A0A1L8H7C8	unreviewed	A0A1L8H7C8_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6ka6.S pp90rsk4 rps6ka rps6ka1 rps6ka6 rsk4	Xenopus laevis (African clawed frog)	734
+A0A1L8HXB6	unreviewed	A0A1L8HXB6_XENLA	Lon protease homolog, mitochondrial (EC 3.4.21.53)	lonp1.L LONP1	Xenopus laevis (African clawed frog)	970
+A0A8J0UC46	unreviewed	A0A8J0UC46_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6ka1.L hu-1 mapkapk1a rps6ka1 rsk rsk1	Xenopus laevis (African clawed frog)	727
+A0A8J0UYC8	unreviewed	A0A8J0UYC8_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6ka4.L rps6ka4	Xenopus laevis (African clawed frog)	766
+A0A8J0VJU1	unreviewed	A0A8J0VJU1_XENLA	DNA topoisomerase 2 (EC 5.6.2.2)	top2b.S	Xenopus laevis (African clawed frog)	1719
+A0A8J0VKA3	unreviewed	A0A8J0VKA3_XENLA	DNA topoisomerase 2 (EC 5.6.2.2)	top2b.L	Xenopus laevis (African clawed frog)	1362
+A0A8J0VMW7	unreviewed	A0A8J0VMW7_XENLA	DNA topoisomerase 2 (EC 5.6.2.2)	top2b.S	Xenopus laevis (African clawed frog)	1479
+A0A8J1L4F2	unreviewed	A0A8J1L4F2_XENLA	DNA topoisomerase 2 (EC 5.6.2.2)	top2b.S	Xenopus laevis (African clawed frog)	1389
+A0A8J1M5I6	unreviewed	A0A8J1M5I6_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6ka1.L hu-1 mapkapk1a rps6ka1 rsk rsk1	Xenopus laevis (African clawed frog)	773
+A0A8J1M5I8	unreviewed	A0A8J1M5I8_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6ka1.L hu-1 mapkapk1a rps6ka1 rsk rsk1	Xenopus laevis (African clawed frog)	767
+A0A8J1M7C9	unreviewed	A0A8J1M7C9_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6ka1.L hu-1 mapkapk1a rps6ka1 rsk rsk1	Xenopus laevis (African clawed frog)	734
+A0AUT3	unreviewed	A0AUT3_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6ka4.L rps6ka4	Xenopus laevis (African clawed frog)	765
+A5PKR8	reviewed	EFGM_XENLA	Elongation factor G, mitochondrial (EF-Gmt) (Elongation factor G 1, mitochondrial) (mEF-G 1) (Elongation factor G1)	gfm1 efg1	Xenopus laevis (African clawed frog)	748
+P02385	reviewed	RL4B_XENLA	60S ribosomal protein L4-B (L1B)	rpl4-b rpl1b	Xenopus laevis (African clawed frog)	401
+P02412	reviewed	RL18B_XENLA	60S ribosomal protein L18-B (L14B)	rpl18-b rpl14b	Xenopus laevis (African clawed frog)	188
+P10666	reviewed	KS6AB_XENLA	Ribosomal protein S6 kinase 2 beta (EC 2.7.11.1) (Ribosomal protein S6 kinase II beta) (S6KII-beta) (p90-RSK)		Xenopus laevis (African clawed frog)	629
+P15125	reviewed	RL5A_XENLA	60S ribosomal protein L5-A	rpl5-a	Xenopus laevis (African clawed frog)	296
+P15126	reviewed	RL5B_XENLA	60S ribosomal protein L5-B	rpl5-b	Xenopus laevis (African clawed frog)	296
+P62972	reviewed	UBIQP_XENLA	Polyubiquitin [Cleaved into: Ubiquitin]		Xenopus laevis (African clawed frog)	167
+Q2TAF8	reviewed	LONP2_XENLA	Lon protease homolog 2, peroxisomal (EC 3.4.21.53)	lonp2	Xenopus laevis (African clawed frog)	856
+Q32N55	reviewed	PTCD3_XENLA	Pentatricopeptide repeat domain-containing protein 3, mitochondrial	ptcd3	Xenopus laevis (African clawed frog)	669
+Q5XH16	reviewed	NH2L1_XENLA	NHP2-like protein 1 (High mobility group-like nuclear protein 2 homolog 1) (U4/U6.U5 small nuclear ribonucleoprotein SNU13) (U4/U6.U5 tri-snRNP 15.5 kDa protein)	snu13 nhp2l1	Xenopus laevis (African clawed frog)	128
+Q6AZV1	reviewed	HS90B_XENLA	Heat shock cognate protein HSP 90-beta	hsp90ab1 hsp90beta XELAEV_18028538mg	Xenopus laevis (African clawed frog)	722
+Q6DDJ7	unreviewed	Q6DDJ7_XENLA	Bifunctional lysine-specific demethylase and histidyl-hydroxylase (EC 1.14.11.-)	riox2.L mina mina-prov mina.L NO52 riox2	Xenopus laevis (African clawed frog)	461
+Q6GP86	unreviewed	Q6GP86_XENLA	Ribosome biogenesis protein NSA2 homolog	nsa2.L cdk105 hcl-g1 hclg1 hussy-29 hussy29 nsa2 tinp1 yr-29	Xenopus laevis (African clawed frog)	260
+Q6GPM4	reviewed	RM24_XENLA	Probable 39S ribosomal protein L24, mitochondrial (L24mt) (MRP-L24)	mrpl24	Xenopus laevis (African clawed frog)	216
+Q6GR32	unreviewed	Q6GR32_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6ka1.L hu-1 mapkapk1a MGC81220 rps6ka1 rsk rsk1	Xenopus laevis (African clawed frog)	733
+Q6INT0	unreviewed	Q6INT0_XENLA	DNA topoisomerase 2 (EC 5.6.2.2)	top2a.L LOC398512 top2 top2a tp2a	Xenopus laevis (African clawed frog)	1579
+Q7ZWY8	unreviewed	Q7ZWY8_XENLA	Ribonucloprotein	snu13.L fa-1 fa1 hoip nhp2l1 nhp2l1-b nhpx otk27 snrnp15-5 snu13 spag12 ssfa1	Xenopus laevis (African clawed frog)	128
+Q7ZYT3	unreviewed	Q7ZYT3_XENLA	DNA-(apurinic or apyrimidinic site) lyase (EC 4.2.99.18)	rpls3-b	Xenopus laevis (African clawed frog)	246
+Q9PTN1	unreviewed	Q9PTN1_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6ka3.L p90 rps6ka3 rsk RSK2 rsk2 S6KII	Xenopus laevis (African clawed frog)	737
+Q9W6Y9	unreviewed	Q9W6Y9_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6kb1.S p70-alpha p70-s6k p70s6k ps6k rps6kb1 rps6kb1-A s6k s6K1 stk14a	Xenopus laevis (African clawed frog)	501
+A0A1L8EJM5	unreviewed	A0A1L8EJM5_XENLA	40S ribosomal protein S27	rps27.L	Xenopus laevis (African clawed frog)	84
+A0A1L8EPX3	unreviewed	A0A1L8EPX3_XENLA	postmeiotic segregation increased 1 isoform X1	pms1.S pms1	Xenopus laevis (African clawed frog)	925
+A0A1L8EQX4	unreviewed	A0A1L8EQX4_XENLA	40S ribosomal protein S2	LOC108703225	Xenopus laevis (African clawed frog)	281
+A0A1L8ESA5	unreviewed	A0A1L8ESA5_XENLA	116 kDa U5 small nuclear ribonucleoprotein component (U5 snRNP-specific protein, 116 kDa)	eftud2.L	Xenopus laevis (African clawed frog)	974
+A0A1L8ESX1	unreviewed	A0A1L8ESX1_XENLA	40S ribosomal protein S21	LOC108700925	Xenopus laevis (African clawed frog)	83
+A0A1L8ETY8	unreviewed	A0A1L8ETY8_XENLA	60S ribosomal protein L27	rpl27.L	Xenopus laevis (African clawed frog)	136
+A0A1L8F381	unreviewed	A0A1L8F381_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	LOC108700150	Xenopus laevis (African clawed frog)	760
+A0A1L8F3K2	unreviewed	A0A1L8F3K2_XENLA	receptor for activated C kinase 1 S homeolog isoform X1	rack1.L gnb2-rs1 gnb2l1 h12.3 hlc-7 pig21 rack1.S	Xenopus laevis (African clawed frog)	276
+A0A1L8F8M5	unreviewed	A0A1L8F8M5_XENLA	28S ribosomal protein S18b, mitochondrial (28S ribosomal protein S18-2, mitochondrial)	mrps18b.L	Xenopus laevis (African clawed frog)	220
+A0A1L8F9E2	unreviewed	A0A1L8F9E2_XENLA	mutL homolog 3 L homeolog isoform X2	mlh3.L mlh3	Xenopus laevis (African clawed frog)	1328
+A0A1L8F9G5	unreviewed	A0A1L8F9G5_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6ka5.L	Xenopus laevis (African clawed frog)	782
+A0A1L8FC97	unreviewed	A0A1L8FC97_XENLA	probable 39S ribosomal protein L24, mitochondrial isoform X1	mrpl24.L L24 mrpl24 rpl24 rpl24-A	Xenopus laevis (African clawed frog)	216
+A0A1L8FHN4	unreviewed	A0A1L8FHN4_XENLA	Ribosome assembly factor mrt4	mrto4.S	Xenopus laevis (African clawed frog)	240
+A0A1L8FNQ9	unreviewed	A0A1L8FNQ9_XENLA	40S ribosomal protein S9	rps9.L	Xenopus laevis (African clawed frog)	194
+A0A1L8FRG2	unreviewed	A0A1L8FRG2_XENLA	Ribosomal protein L15	rpl15.S	Xenopus laevis (African clawed frog)	204
+A0A1L8FWH1	unreviewed	A0A1L8FWH1_XENLA	60S ribosomal protein L14	LOC121394610	Xenopus laevis (African clawed frog)	138
+A0A1L8FZ13	unreviewed	A0A1L8FZ13_XENLA	40S ribosomal protein S20	rps20.L rps20	Xenopus laevis (African clawed frog)	119
+A0A1L8G1M3	unreviewed	A0A1L8G1M3_XENLA	polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) (Polynucleotide phosphorylase 1)	pnpt1.S	Xenopus laevis (African clawed frog)	785
+A0A1L8G283	unreviewed	A0A1L8G283_XENLA	40S ribosomal protein S21	LOC108717861	Xenopus laevis (African clawed frog)	83
+A0A1L8G577	unreviewed	A0A1L8G577_XENLA	40S ribosomal protein S7	rps7.S dba8 rps7 rps7.L rpS8A rpS8B	Xenopus laevis (African clawed frog)	195
+A0A1L8G5V1	unreviewed	A0A1L8G5V1_XENLA	Ubiquitin-40S ribosomal protein S27a (Ubiquitin carboxyl extension protein 80)	rps27a.L	Xenopus laevis (African clawed frog)	156
+A0A1L8G6S2	unreviewed	A0A1L8G6S2_XENLA	uncharacterized protein LOC100158287 isoform X2	eprs1.L eprs	Xenopus laevis (African clawed frog)	1774
+A0A1L8GJK9	unreviewed	A0A1L8GJK9_XENLA	39S ribosomal protein L49, mitochondrial	mrpl49.L	Xenopus laevis (African clawed frog)	165
+A0A1L8GL39	unreviewed	A0A1L8GL39_XENLA	Diphosphomevalonate decarboxylase (EC 4.1.1.33)	mvd.L	Xenopus laevis (African clawed frog)	394
+A0A1L8GQ05	unreviewed	A0A1L8GQ05_XENLA	glutamine--tRNA ligase (EC 6.1.1.18) (Glutaminyl-tRNA synthetase)	qars1.L	Xenopus laevis (African clawed frog)	772
+A0A1L8GUY5	unreviewed	A0A1L8GUY5_XENLA	Ribonucloprotein	nhp2.S	Xenopus laevis (African clawed frog)	149
+A0A1L8GY05	unreviewed	A0A1L8GY05_XENLA	Ribonucloprotein	nhp2.L LOC108710993	Xenopus laevis (African clawed frog)	149
+A0A1L8GZY5	unreviewed	A0A1L8GZY5_XENLA	40S ribosomal protein S27	rps27l.L	Xenopus laevis (African clawed frog)	84
+A0A1L8H8R4	unreviewed	A0A1L8H8R4_XENLA	39S ribosomal protein L30, mitochondrial	mrpl30.S	Xenopus laevis (African clawed frog)	162
+A0A1L8H9S1	unreviewed	A0A1L8H9S1_XENLA	40S ribosomal protein S26	rps26.S	Xenopus laevis (African clawed frog)	115
+A0A1L8HCP3	unreviewed	A0A1L8HCP3_XENLA	Bifunctional lysine-specific demethylase and histidyl-hydroxylase (EC 1.14.11.-)	riox2.L mina mina.L NO52	Xenopus laevis (African clawed frog)	461
+A0A1L8HF43	unreviewed	A0A1L8HF43_XENLA	60S ribosomal protein L8	rpl8.L	Xenopus laevis (African clawed frog)	257
+A0A1L8HFJ1	unreviewed	A0A1L8HFJ1_XENLA	28S ribosomal protein S15, mitochondrial	mrps15.L	Xenopus laevis (African clawed frog)	249
+A0A1L8HFU6	unreviewed	A0A1L8HFU6_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6kb1.L	Xenopus laevis (African clawed frog)	521
+A0A1L8HNA1	unreviewed	A0A1L8HNA1_XENLA	40S ribosomal protein S15	rps15.S rig rps15	Xenopus laevis (African clawed frog)	155
+A0A1L8HT02	unreviewed	A0A1L8HT02_XENLA	39S ribosomal protein L35, mitochondrial	mrpl35.L	Xenopus laevis (African clawed frog)	199
+A0A1L8HUR4	unreviewed	A0A1L8HUR4_XENLA	60S ribosomal protein L34	rpl34.L L34 rpl34 xl34	Xenopus laevis (African clawed frog)	153
+A0A1L8HZX4	unreviewed	A0A1L8HZX4_XENLA	Mevalonate kinase (MK) (EC 2.7.1.36)	mvk.L	Xenopus laevis (African clawed frog)	388
+A0A1L8I062	unreviewed	A0A1L8I062_XENLA	60S acidic ribosomal protein P0	rplp0.L	Xenopus laevis (African clawed frog)	314
+A0A1L8I2F1	unreviewed	A0A1L8I2F1_XENLA	Ribosomal protein L37	rpl37.L	Xenopus laevis (African clawed frog)	97
+A0A1L8I2R0	unreviewed	A0A1L8I2R0_XENLA	Ribosome-releasing factor 2, mitochondrial (RRF2mt) (Elongation factor G 2, mitochondrial) (EF-G2mt) (mEF-G 2)	gfm2.L EFG2 GFM2	Xenopus laevis (African clawed frog)	777
+A0A1L8I3J8	unreviewed	A0A1L8I3J8_XENLA	60S ribosomal protein L17	rpl17.L b l17 pd-1 rpl17 rpl17-a rpl17-b rpl23	Xenopus laevis (African clawed frog)	184
+A0A310TRG4	unreviewed	A0A310TRG4_XENLA	40S ribosomal protein S19	rps19.S rps19	Xenopus laevis (African clawed frog)	191
+A0A310UEC1	unreviewed	A0A310UEC1_XENLA	60S ribosomal protein L11	rpl11.S rpl11 rpl11.L	Xenopus laevis (African clawed frog)	167
+A0A8J0PX07	unreviewed	A0A8J0PX07_XENLA	mutL homolog 3 L homeolog	mlh3.L mlh3	Xenopus laevis (African clawed frog)	1305
+A0A8J0T8P6	unreviewed	A0A8J0T8P6_XENLA	40S ribosomal protein S25	rps25.L	Xenopus laevis (African clawed frog)	162
+A0A8J0T9B1	unreviewed	A0A8J0T9B1_XENLA	60S ribosomal protein L35	rpl35.L l35 rpl35	Xenopus laevis (African clawed frog)	129
+A0A8J0TC52	unreviewed	A0A8J0TC52_XENLA	40S ribosomal protein S29	LOC108698757	Xenopus laevis (African clawed frog)	56
+A0A8J0TGL1	unreviewed	A0A8J0TGL1_XENLA	mutL homolog 3 L homeolog isoform X1	mlh3.L mlh3	Xenopus laevis (African clawed frog)	1360
+A0A8J0THG9	unreviewed	A0A8J0THG9_XENLA	mutL homolog 3 L homeolog isoform X3	mlh3.L mlh3	Xenopus laevis (African clawed frog)	1250
+A0A8J0TIB3	unreviewed	A0A8J0TIB3_XENLA	60S ribosomal protein L12	rpl12.L	Xenopus laevis (African clawed frog)	165
+A0A8J0TIQ6	unreviewed	A0A8J0TIQ6_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	LOC108698451	Xenopus laevis (African clawed frog)	744
+A0A8J0TJH7	unreviewed	A0A8J0TJH7_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	LOC108698451	Xenopus laevis (African clawed frog)	743
+A0A8J0TK07	unreviewed	A0A8J0TK07_XENLA	28S ribosomal protein S18b, mitochondrial (28S ribosomal protein S18-2, mitochondrial)	mrps18b.L	Xenopus laevis (African clawed frog)	211
+A0A8J0TNK1	unreviewed	A0A8J0TNK1_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	LOC108700150	Xenopus laevis (African clawed frog)	751
+A0A8J0TRQ9	unreviewed	A0A8J0TRQ9_XENLA	40S ribosomal protein S15a	MGC114789	Xenopus laevis (African clawed frog)	140
+A0A8J0TUM3	unreviewed	A0A8J0TUM3_XENLA	Growth arrest and DNA damage-inducible proteins-interacting protein 1 (39S ribosomal protein L59, mitochondrial)	LOC108703484	Xenopus laevis (African clawed frog)	213
+A0A8J0TX93	unreviewed	A0A8J0TX93_XENLA	mismatch repair endonuclease PMS2	pms2.L	Xenopus laevis (African clawed frog)	849
+A0A8J0TXA4	unreviewed	A0A8J0TXA4_XENLA	60S ribosomal protein L6	rpl6.S rpl6	Xenopus laevis (African clawed frog)	293
+A0A8J0TXB0	unreviewed	A0A8J0TXB0_XENLA	60S ribosomal protein L6	rpl6.S rpl6	Xenopus laevis (African clawed frog)	269
+A0A8J0TY01	unreviewed	A0A8J0TY01_XENLA	40S ribosomal protein S15a	rps15a.S rps15a rps22	Xenopus laevis (African clawed frog)	138
+A0A8J0TZY3	unreviewed	A0A8J0TZY3_XENLA	60S ribosomal protein L9	LOC108706570	Xenopus laevis (African clawed frog)	192
+A0A8J0U088	unreviewed	A0A8J0U088_XENLA	60S ribosomal protein L6	rpl6.S rpl6	Xenopus laevis (African clawed frog)	260
+A0A8J0UJK0	unreviewed	A0A8J0UJK0_XENLA	40S ribosomal protein S27	rps27l.L	Xenopus laevis (African clawed frog)	116
+A0A8J0UKA4	unreviewed	A0A8J0UKA4_XENLA	40S ribosomal protein S26	rps26.S	Xenopus laevis (African clawed frog)	127
+A0A8J0UKP7	unreviewed	A0A8J0UKP7_XENLA	28S ribosomal protein S31, mitochondrial	mrps31.S	Xenopus laevis (African clawed frog)	406
+A0A8J0UWY2	unreviewed	A0A8J0UWY2_XENLA	40S ribosomal protein S27	rps27l.S	Xenopus laevis (African clawed frog)	84
+A0A8J0V8C8	unreviewed	A0A8J0V8C8_XENLA	uncharacterized protein LOC100158287 isoform X5	eprs1.L eprs	Xenopus laevis (African clawed frog)	1619
+A0A8J0V9F6	unreviewed	A0A8J0V9F6_XENLA	ribosomal protein S6 kinase, 52kDa, polypeptide 1 L homeolog isoform X3	rps6kc1.L rpk118 rps6kc1 s6pkh1	Xenopus laevis (African clawed frog)	1030
+A0A8J0VA40	unreviewed	A0A8J0VA40_XENLA	mitochondrial ribosomal protein S18A L homeolog isoform X1	mrps18a.L mrp-s18-3 mrps18-3 mrps18a s18bmt	Xenopus laevis (African clawed frog)	202
+A0A8J0VC88	unreviewed	A0A8J0VC88_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	LOC108717877	Xenopus laevis (African clawed frog)	732
+A0A8J0VJ01	unreviewed	A0A8J0VJ01_XENLA	heat shock protein 90kDa alpha family class B member 1 S homeolog isoform X1	hsp90ab1.S hsp90ab1 hsp90b hsp90beta	Xenopus laevis (African clawed frog)	728
+A0A8J0VLZ1	unreviewed	A0A8J0VLZ1_XENLA	mutL homolog 1 S homeolog isoform X1	mlh1.S mlh1 mutL	Xenopus laevis (African clawed frog)	698
+A0A8J1KKX1	unreviewed	A0A8J1KKX1_XENLA	uncharacterized protein LOC100158287 isoform X3	eprs1.L eprs	Xenopus laevis (African clawed frog)	1706
+A0A8J1KKX8	unreviewed	A0A8J1KKX8_XENLA	uncharacterized protein LOC100158287 isoform X4	eprs1.L eprs	Xenopus laevis (African clawed frog)	1626
+A0A8J1KP01	unreviewed	A0A8J1KP01_XENLA	uncharacterized protein LOC100158287 isoform X1	eprs1.L eprs	Xenopus laevis (African clawed frog)	1781
+A0A8J1KPB5	unreviewed	A0A8J1KPB5_XENLA	60S ribosomal protein L35a	LOC121393781 LOC121393773	Xenopus laevis (African clawed frog)	110
+A0A8J1KR56	unreviewed	A0A8J1KR56_XENLA	glutamyl-prolyl-tRNA synthetase 1 S homeolog isoform X1	eprs1.S eprs eprs.S	Xenopus laevis (African clawed frog)	1710
+A0A8J1KRA0	unreviewed	A0A8J1KRA0_XENLA	40S ribosomal protein S12	rps12.S rps12 rps12-a rps12-b rps12b	Xenopus laevis (African clawed frog)	121
+A0A8J1KST2	unreviewed	A0A8J1KST2_XENLA	glutamyl-prolyl-tRNA synthetase 1 S homeolog isoform X2	eprs1.S eprs eprs.S	Xenopus laevis (African clawed frog)	1630
+A0A8J1L411	unreviewed	A0A8J1L411_XENLA	40S ribosomal protein S24	rps24.L rps24	Xenopus laevis (African clawed frog)	164
+A0A8J1L418	unreviewed	A0A8J1L418_XENLA	40S ribosomal protein S24	rps24.L LOC121393051 rps24	Xenopus laevis (African clawed frog)	132
+A0A8J1L5T4	unreviewed	A0A8J1L5T4_XENLA	40S ribosomal protein S24	LOC121393051 rps24 rps24.L	Xenopus laevis (African clawed frog)	131
+A0A8J1L5U7	unreviewed	A0A8J1L5U7_XENLA	40S ribosomal protein S24	LOC121393051 rps24 rps24.L	Xenopus laevis (African clawed frog)	130
+A0A8J1L7J7	unreviewed	A0A8J1L7J7_XENLA	40S ribosomal protein S24	LOC121393051	Xenopus laevis (African clawed frog)	132
+A0A8J1LIC4	unreviewed	A0A8J1LIC4_XENLA	40S ribosomal protein S15	rps15.S rig rps15	Xenopus laevis (African clawed frog)	172
+A0A8J1LKU3	unreviewed	A0A8J1LKU3_XENLA	40S ribosomal protein S27	rps27.L	Xenopus laevis (African clawed frog)	101
+A0A8J1LKZ1	unreviewed	A0A8J1LKZ1_XENLA	39S ribosomal protein L9, mitochondrial	mrpl9.S comp72 l9mt mrpl9	Xenopus laevis (African clawed frog)	228
+A0A8J1LTQ8	unreviewed	A0A8J1LTQ8_XENLA	40S ribosomal protein S21	LOC108700925	Xenopus laevis (African clawed frog)	85
+A0A8J1M413	unreviewed	A0A8J1M413_XENLA	Ribosome biogenesis protein NSA2 homolog	nsa2.S	Xenopus laevis (African clawed frog)	260
+A0A8J1MBU0	unreviewed	A0A8J1MBU0_XENLA	28S ribosomal protein S31, mitochondrial	mrps31.L	Xenopus laevis (African clawed frog)	377
+A0A8J1MDX5	unreviewed	A0A8J1MDX5_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6ka3.S	Xenopus laevis (African clawed frog)	735
+A0A8J1MES2	unreviewed	A0A8J1MES2_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6ka3.S	Xenopus laevis (African clawed frog)	737
+A0A8J1MLI5	unreviewed	A0A8J1MLI5_XENLA	40S ribosomal protein S27	rps27l.L	Xenopus laevis (African clawed frog)	52
+A0AUU1	unreviewed	A0AUU1_XENLA	DNA mismatch repair protein MutL-homolog 1 (LOC100036779 protein) (mutL homolog 1 S homeolog)	mlh1.S LOC100036779 mlh1 mutL	Xenopus laevis (African clawed frog)	750
+A2BD64	unreviewed	A2BD64_XENLA	LOC100037103 protein (mitochondrial ribosomal protein S36 S homeolog)	mrps36.S dc47 LOC100037103 mrp-s36 mrps36 mrps36.L	Xenopus laevis (African clawed frog)	110
+A2BDB1	unreviewed	A2BDB1_XENLA	40S ribosomal protein S2	LOC100037089	Xenopus laevis (African clawed frog)	285
+A2VD63	unreviewed	A2VD63_XENLA	HATPase_c domain-containing protein		Xenopus laevis (African clawed frog)	805
+A2VDA5	unreviewed	A2VDA5_XENLA	60S ribosomal protein L7a	rpl7a.L rpl7a	Xenopus laevis (African clawed frog)	266
+A4FVF5	unreviewed	A4FVF5_XENLA	60S acidic ribosomal protein P2	XB5843130.S LOC100049136 XB5843130	Xenopus laevis (African clawed frog)	111
+A6H8J7	unreviewed	A6H8J7_XENLA	40S ribosomal protein S20	LOC100101334	Xenopus laevis (African clawed frog)	120
+A8E604	reviewed	RS3AB_XENLA	40S ribosomal protein S3a-B	rps3a-b	Xenopus laevis (African clawed frog)	264
+A8E608	unreviewed	A8E608_XENLA	LOC100126642 protein	LOC100126642	Xenopus laevis (African clawed frog)	302
+A9JS31	unreviewed	A9JS31_XENLA	mitochondrial ribosomal protein L4 L homeolog	mrpl4.L cgi-28 l4mt mrpl4	Xenopus laevis (African clawed frog)	298
+A9JS75	unreviewed	A9JS75_XENLA	28S ribosomal protein S15, mitochondrial	LOC100127328	Xenopus laevis (African clawed frog)	253
+A9JTI5	unreviewed	A9JTI5_XENLA	60S ribosomal protein L7a	LOC100037086	Xenopus laevis (African clawed frog)	266
+A9UMM9	unreviewed	A9UMM9_XENLA	LOC100137687 protein (fucose kinase L homeolog (EC 2.7.1.52))	ffcskk.L fcsk fuk fuk.L LOC100137687	Xenopus laevis (African clawed frog)	1086
+B1WBE0	unreviewed	B1WBE0_XENLA	LOC100158438 protein (glutamyl-prolyl-tRNA synthetase 1 S homeolog)	eprs1.S eprs eprs.S eprs1 LOC100158438	Xenopus laevis (African clawed frog)	1499
+O42480	unreviewed	O42480_XENLA	MGC52556 protein (RanBP7) (importin 7 L homeolog)	ipo7.L imp7 ipo7 MGC52556 ranbp7	Xenopus laevis (African clawed frog)	1038
+P02362	reviewed	RS7_XENLA	40S ribosomal protein S7 (40S ribosomal protein S8)	rps7 rps8	Xenopus laevis (African clawed frog)	194
+P02377	reviewed	RS24_XENLA	40S ribosomal protein S24 (S19)	rps24	Xenopus laevis (African clawed frog)	132
+P02434	reviewed	RL35A_XENLA	60S ribosomal protein L35a (L32)	rpl35a	Xenopus laevis (African clawed frog)	110
+P08429	reviewed	RL4A_XENLA	60S ribosomal protein L4-A (L1A)	rpl4-a rpl-4 rpl1a	Xenopus laevis (African clawed frog)	396
+P09897	reviewed	RL18A_XENLA	60S ribosomal protein L18-A (L14A)	rpl18-a rpl14a	Xenopus laevis (African clawed frog)	188
+P20342	reviewed	RS15_XENLA	40S ribosomal protein S15 (RIG protein)	rps15 rig	Xenopus laevis (African clawed frog)	145
+P23403	reviewed	RS20_XENLA	40S ribosomal protein S20 (S22)	rps20	Xenopus laevis (African clawed frog)	119
+P39017	reviewed	RS6_XENLA	40S ribosomal protein S6	rps6	Xenopus laevis (African clawed frog)	249
+P41115	reviewed	RS11_XENLA	40S ribosomal protein S11	rps11	Xenopus laevis (African clawed frog)	158
+P41116	reviewed	RL8_XENLA	60S ribosomal protein L8	rpl8	Xenopus laevis (African clawed frog)	257
+P46780	reviewed	RL28_XENLA	60S ribosomal protein L28	rpl28	Xenopus laevis (African clawed frog)	33
+P47830	reviewed	RL27A_XENLA	60S ribosomal protein L27a (L22)	rpl27a rpl22	Xenopus laevis (African clawed frog)	148
+P47840	reviewed	RS12_XENLA	40S ribosomal protein S12	rps12	Xenopus laevis (African clawed frog)	132
+P47904	reviewed	RS27_XENLA	40S ribosomal protein S27	rps27	Xenopus laevis (African clawed frog)	84
+P49393	reviewed	RS13_XENLA	40S ribosomal protein S13	rps13	Xenopus laevis (African clawed frog)	151
+P49401	reviewed	RS4_XENLA	40S ribosomal protein S4	rps4 rps4x	Xenopus laevis (African clawed frog)	263
+P49628	reviewed	RL21_XENLA	60S ribosomal protein L21	rpl21	Xenopus laevis (African clawed frog)	33
+P49629	reviewed	RL26_XENLA	60S ribosomal protein L26	rpl26	Xenopus laevis (African clawed frog)	33
+P50886	reviewed	RL22_XENLA	60S ribosomal protein L22	rpl22	Xenopus laevis (African clawed frog)	128
+P59480	reviewed	RM45_XENLA	39S ribosomal protein L45, mitochondrial (L45mt) (MRP-L45)	mrpl45	Xenopus laevis (African clawed frog)	309
+Q07254	reviewed	RS10_XENLA	40S ribosomal protein S10	rps10	Xenopus laevis (African clawed frog)	165
+Q08AX5	unreviewed	Q08AX5_XENLA	LOC100158393 protein (mitochondrial ribosomal protein S16 L homeolog)	mrps16.L LOC100158393 mrps16	Xenopus laevis (African clawed frog)	139
+Q0IH14	unreviewed	Q0IH14_XENLA	Mrps9 protein (mitochondrial ribosomal protein S9 L homeolog)	mrps9.L mrps9	Xenopus laevis (African clawed frog)	384
+Q0IH18	unreviewed	Q0IH18_XENLA	39S ribosomal protein L16, mitochondrial	mrpl16.S mrpl16 mrpl16.L	Xenopus laevis (African clawed frog)	253
+Q0IHG1	unreviewed	Q0IHG1_XENLA	60S acidic ribosomal protein P2	rplp2.L MGC154377 rplp2	Xenopus laevis (African clawed frog)	115
+Q2NLA5	unreviewed	Q2NLA5_XENLA	glutamine--tRNA ligase (EC 6.1.1.18) (Glutaminyl-tRNA synthetase)	LOC734179	Xenopus laevis (African clawed frog)	771
+Q3B8D6	unreviewed	Q3B8D6_XENLA	39S ribosomal protein L23, mitochondrial (MGC131313 protein)	mrpl23.S MGC131313 mrpl23	Xenopus laevis (African clawed frog)	153
+Q3B8K3	reviewed	RT24B_XENLA	28S ribosomal protein S24-B, mitochondrial (MRP-S24-B) (S24mt-B)	mrps24-b	Xenopus laevis (African clawed frog)	170
+Q3KQG7	unreviewed	Q3KQG7_XENLA	28S ribosomal protein S18b, mitochondrial (28S ribosomal protein S18-2, mitochondrial)	mrps18b.S MGC130639 mrp-s18-2 mrps18-2 mrps18b ptd017 s18amt	Xenopus laevis (African clawed frog)	222
+Q45NC1	unreviewed	Q45NC1_XENLA	Exosome complex component RRP45 (Exosome component 9)	SCL75	Xenopus laevis (African clawed frog)	431
+Q4FZP7	unreviewed	Q4FZP7_XENLA	MGC116452 protein (MGC116477 protein) (ribosomal protein L39 L homeolog) (ribosomal protein L39 S homeolog)	rpl39.S MGC116452 MGC116477 rpl39 rpl39-a rpl39-b rpl39.L rpl39a rpl39b	Xenopus laevis (African clawed frog)	51
+Q4FZQ7	unreviewed	Q4FZQ7_XENLA	60S ribosomal protein L35	rpl35.L l35 MGC116425 rpl35	Xenopus laevis (African clawed frog)	123
+Q4KLF0	unreviewed	Q4KLF0_XENLA	MGC116435 protein (uncharacterized protein LOC734668) (uncharacterized protein LOC734668 isoform X1)	fau.L fau MGC116435	Xenopus laevis (African clawed frog)	133
+Q4QR32	unreviewed	Q4QR32_XENLA	40S ribosomal protein S29	rps29.S MGC114875 rps29	Xenopus laevis (African clawed frog)	56
+Q4QR44	unreviewed	Q4QR44_XENLA	40S ribosomal protein S15a	rps15a.S MGC114789 MGC130892 rps15a rps22	Xenopus laevis (African clawed frog)	130
+Q4V7Q1	reviewed	RM52_XENLA	39S ribosomal protein L52, mitochondrial (L52mt) (MRP-L52)	mrpl52	Xenopus laevis (African clawed frog)	145
+Q4V7S3	unreviewed	Q4V7S3_XENLA	MGC115435 protein (mitochondrial ribosomal protein S18A L homeolog)	mrps18a.L MGC115435 mrp-s18-3 mrps18-3 mrps18a s18bmt	Xenopus laevis (African clawed frog)	195
+Q4V871	unreviewed	Q4V871_XENLA	MGC114621 protein (uncharacterized protein LOC734491)	MGC114621	Xenopus laevis (African clawed frog)	113
+Q52MA0	unreviewed	Q52MA0_XENLA	MGC98504 protein	MGC98504	Xenopus laevis (African clawed frog)	188
+Q569T5	unreviewed	Q569T5_XENLA	28S ribosomal protein S18b, mitochondrial (28S ribosomal protein S18-2, mitochondrial)	LOC733189	Xenopus laevis (African clawed frog)	218
+Q56A61	unreviewed	Q56A61_XENLA	40S ribosomal protein S2	MGC115171	Xenopus laevis (African clawed frog)	261
+Q5PPR8	unreviewed	Q5PPR8_XENLA	LOC496101 protein (mitochondrial ribosomal protein L40 S homeolog)	mrpl40.S LOC496101 mrpl40	Xenopus laevis (African clawed frog)	158
+Q5PQ33	unreviewed	Q5PQ33_XENLA	LOC495996 protein (mitochondrial ribosomal protein S11 L homeolog)	mrps11.L LOC495996 mrps11	Xenopus laevis (African clawed frog)	195
+Q5U4L3	unreviewed	Q5U4L3_XENLA	39S ribosomal protein L9, mitochondrial	mrpl9.S comp72 l9mt LOC495474 mrpl9	Xenopus laevis (African clawed frog)	246
+Q5U4Z8	reviewed	RM20_XENLA	39S ribosomal protein L20, mitochondrial (L20mt) (MRP-L20)	mrpl20	Xenopus laevis (African clawed frog)	149
+Q5U556	unreviewed	Q5U556_XENLA	LOC495364 protein (mitochondrial ribosomal protein L12 L homeolog)	mrpl12.L LOC495364 mrpl12	Xenopus laevis (African clawed frog)	190
+Q5U5B4	unreviewed	Q5U5B4_XENLA	LOC495310 protein (mitochondrial ribosomal protein S33 L homeolog)	mrps33.L LOC495310 mrps33	Xenopus laevis (African clawed frog)	106
+Q5XHI1	unreviewed	Q5XHI1_XENLA	LOC494992 protein (mitochondrial ribosomal protein L3 S homeolog)	mrpl3.S LOC494992 mrpl3	Xenopus laevis (African clawed frog)	341
+Q640D7	unreviewed	Q640D7_XENLA	LOC494722 protein (ribosomal protein L3 like L homeolog)	rpl3l.L LOC494722 rpl3l	Xenopus laevis (African clawed frog)	407
+Q66IU2	unreviewed	Q66IU2_XENLA	MGC84466 protein (mitochondrial ribosomal protein L2 L homeolog)	mrpl2.L cgi-22 MGC84466 mrp-l14 mrpl2 rpml14	Xenopus laevis (African clawed frog)	294
+Q66KP7	unreviewed	Q66KP7_XENLA	40S ribosomal protein S28	rps28p9.L MGC85550 rps28p9 rps28p9.S	Xenopus laevis (African clawed frog)	69
+Q66KU4	reviewed	RL36_XENLA	60S ribosomal protein L36	rpl36	Xenopus laevis (African clawed frog)	105
+Q66KU5	unreviewed	Q66KU5_XENLA	60S ribosomal protein L36a isoform X1 (60S ribosomal protein L36a isoform X2) (MGC85428 protein) (ribosomal protein L36a L homeolog)	rpl36a.L LOC108700056 MGC85428 rpl36a rpl36a.S	Xenopus laevis (African clawed frog)	106
+Q66KV2	unreviewed	Q66KV2_XENLA	60S ribosomal protein L38	rpl38.L MGC85404 rpl38 rpl38.S	Xenopus laevis (African clawed frog)	70
+Q66KV6	unreviewed	Q66KV6_XENLA	60S ribosomal protein L28	rpl28.S l28 LOC100101273 rpl28 rpl28-a rpl28-b rpl28.L	Xenopus laevis (African clawed frog)	137
+Q66KW1	unreviewed	Q66KW1_XENLA	60S ribosomal protein L29	rpl29.S MGC85384 rpl29 rpl29-a rpl29-b rpl29b	Xenopus laevis (African clawed frog)	75
+Q66KX3	unreviewed	Q66KX3_XENLA	60S ribosomal protein L23a (MGC85348 protein)	rpl23a.S l23a mda20 MGC85348 rpl23a rpl23a.L	Xenopus laevis (African clawed frog)	155
+Q66KY6	unreviewed	Q66KY6_XENLA	60S ribosomal protein L11	rpl11.S MGC85310 rpl11 rpl11.L	Xenopus laevis (African clawed frog)	177
+Q66KZ3	reviewed	RM51_XENLA	39S ribosomal protein L51, mitochondrial (L51mt) (MRP-L51)	mrpl51	Xenopus laevis (African clawed frog)	125
+Q68EV6	reviewed	RM28_XENLA	39S ribosomal protein L28, mitochondrial (L28mt) (MRP-L28)	mrpl28	Xenopus laevis (African clawed frog)	253
+Q6AZJ9	reviewed	RS21_XENLA	40S ribosomal protein S21	rps21	Xenopus laevis (African clawed frog)	83
+Q6AZL7	unreviewed	Q6AZL7_XENLA	40S ribosomal protein S26	rps26.L MGC86356 rps26	Xenopus laevis (African clawed frog)	115
+Q6AZL9	unreviewed	Q6AZL9_XENLA	40S ribosomal protein S23	rps23.S MGC86316 rps23 rps23.L	Xenopus laevis (African clawed frog)	143
+Q6AZN4	reviewed	RM15_XENLA	39S ribosomal protein L15, mitochondrial (L15mt) (MRP-L15)	mrpl15	Xenopus laevis (African clawed frog)	296
+Q6AZV3	unreviewed	Q6AZV3_XENLA	60S ribosomal protein L17	rpl17.S l17 MGC78885 pd-1 rpl17 rpl17-a rpl17-b rpl17a rpl23	Xenopus laevis (African clawed frog)	184
+Q6DCH1	unreviewed	Q6DCH1_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)		Xenopus laevis (African clawed frog)	501
+Q6DDI1	unreviewed	Q6DDI1_XENLA	YY1 transcription factor L homeolog (Yy1-a protein)	yy1.L FIII ino80s nf-e1 ucrbp xyy1 yin-yang-1 yy1 yy1-a yy1-b	Xenopus laevis (African clawed frog)	390
+Q6DDY9	reviewed	RT07_XENLA	28S ribosomal protein S7, mitochondrial (MRP-S7) (S7mt)	mrps7	Xenopus laevis (African clawed frog)	233
+Q6DJF7	unreviewed	Q6DJF7_XENLA	60S ribosomal protein L6	rpl6.S MGC84358 rpl6	Xenopus laevis (African clawed frog)	258
+Q6DJH3	unreviewed	Q6DJH3_XENLA	Ribosomal protein L19	rpl19.S rpl19 rpl19-prov	Xenopus laevis (African clawed frog)	312
+Q6DJI0	unreviewed	Q6DJI0_XENLA	40S ribosomal protein S8	rps8.L MGC83421 rps8	Xenopus laevis (African clawed frog)	208
+Q6DJI4	reviewed	RM41A_XENLA	39S ribosomal protein L41-A, mitochondrial (L41mt-A) (MRP-L41-A)	mrpl41-a	Xenopus laevis (African clawed frog)	135
+Q6DJI6	unreviewed	Q6DJI6_XENLA	60S acidic ribosomal protein P2	LOC398653	Xenopus laevis (African clawed frog)	111
+Q6DJJ1	unreviewed	Q6DJJ1_XENLA	40S ribosomal protein S25	rps25.L MGC82151 rps25 rps25.S	Xenopus laevis (African clawed frog)	125
+Q6DJJ7	unreviewed	Q6DJJ7_XENLA	40S ribosomal protein S20	rps20.S MGC82136	Xenopus laevis (African clawed frog)	119
+Q6DJN5	unreviewed	Q6DJN5_XENLA	60S ribosomal protein L13	rpl13.S rpl13 rpl13-prov	Xenopus laevis (African clawed frog)	211
+Q6DKL9	unreviewed	Q6DKL9_XENLA	39S ribosomal protein L17, mitochondrial	mrpl17.S MGC83084 mrpl17	Xenopus laevis (African clawed frog)	168
+Q6GMC1	unreviewed	Q6GMC1_XENLA	Ubiquitin-40S ribosomal protein S27a (Ubiquitin carboxyl extension protein 80)	rps27a.S MGC81889 rps27a rps27a.L	Xenopus laevis (African clawed frog)	156
+Q6GN79	unreviewed	Q6GN79_XENLA	Ribosomal protein L37	rpl37.S MGC82973 rpl37	Xenopus laevis (African clawed frog)	97
+Q6GNF2	unreviewed	Q6GNF2_XENLA	60S ribosomal protein L30	rpl30.L l30 MGC82844 rpl30 rpl30-a rpl30-b	Xenopus laevis (African clawed frog)	116
+Q6GNF4	unreviewed	Q6GNF4_XENLA	40S ribosomal protein S17	rps17.L MGC82841 rps17 rps17.S	Xenopus laevis (African clawed frog)	135
+Q6GNH1	unreviewed	Q6GNH1_XENLA	60S ribosomal protein L23	rpl23.S LOC108700787 MGC82808 rpl23	Xenopus laevis (African clawed frog)	140
+Q6GNH2	unreviewed	Q6GNH2_XENLA	MGC82807 protein (galactokinase 1 L homeolog (EC 2.7.1.6))	galk1.L galk1 MGC82807	Xenopus laevis (African clawed frog)	388
+Q6GNN5	unreviewed	Q6GNN5_XENLA	Ribosomal protein S6 kinase (EC 2.7.11.1)	rps6kb1-A	Xenopus laevis (African clawed frog)	471
+Q6GNX6	unreviewed	Q6GNX6_XENLA	40S ribosomal protein S9	rps9.S MGC80804 rps9 rps9.L	Xenopus laevis (African clawed frog)	194
+Q6GNZ4	unreviewed	Q6GNZ4_XENLA	MGC80774 protein	mlh3.L MGC80774 mlh3	Xenopus laevis (African clawed frog)	1235
+Q6GP41	unreviewed	Q6GP41_XENLA	60S ribosomal protein L21	MGC80700	Xenopus laevis (African clawed frog)	160
+Q6GQB2	unreviewed	Q6GQB2_XENLA	60S ribosomal protein L7a	rpl7a.S MGC80199 rpl7a surf3 trup	Xenopus laevis (African clawed frog)	266
+Q6GQC6	unreviewed	Q6GQC6_XENLA	60S acidic ribosomal protein P2	rplp2.S MGC80163	Xenopus laevis (African clawed frog)	115
+Q6GQF3	unreviewed	Q6GQF3_XENLA	Ubiquitin-60S ribosomal protein L40	uba52.L LOC108706905 MGC80109 uba52	Xenopus laevis (African clawed frog)	128
+Q6GQJ3	unreviewed	Q6GQJ3_XENLA	Exosome complex component RRP45 (Exosome component 9)	exosc9.L exosc9 SCL75 scl75	Xenopus laevis (African clawed frog)	431
+Q6INF3	reviewed	RM41B_XENLA	39S ribosomal protein L41-B, mitochondrial (L41mt-B) (MRP-L41-B)	mrpl41-b	Xenopus laevis (African clawed frog)	135
+Q6NTR4	unreviewed	Q6NTR4_XENLA	60S ribosomal protein L14	rpl14.S MGC83076 rpl14	Xenopus laevis (African clawed frog)	138
+Q6NTS3	reviewed	RT24A_XENLA	28S ribosomal protein S24-A, mitochondrial (MRP-S24-A) (S24mt-A)	mrps24-a	Xenopus laevis (African clawed frog)	170
+Q6NTT2	unreviewed	Q6NTT2_XENLA	40S ribosomal protein S18	rps18.L LOC108700218 MGC82306 rps18	Xenopus laevis (African clawed frog)	152
+Q6NTU1	unreviewed	Q6NTU1_XENLA	MGC82245 protein (uncharacterized protein LOC414604)	mrps26.L MGC82245 mrp-s13 mrp-s26 mrps13 mrps26 rpms13	Xenopus laevis (African clawed frog)	204
+Q6NTV9	reviewed	NHP2_XENLA	H/ACA ribonucleoprotein complex subunit 2-like protein (Nucleolar protein family A member 2-like protein) (snoRNP protein NHP2-like protein)	nhp2 nola2	Xenopus laevis (African clawed frog)	149
+Q6NU31	unreviewed	Q6NU31_XENLA	MGC81290 protein (ribosomal protein S6 kinase, 52kDa, polypeptide 1 L homeolog (EC 2.7.11.1))	rps6kc1.L MGC81290 rpk118 rps6kc1 s6pkh1	Xenopus laevis (African clawed frog)	409
+Q6NUH0	reviewed	RL31_XENLA	60S ribosomal protein L31	rpl31	Xenopus laevis (African clawed frog)	125
+Q6P699	unreviewed	Q6P699_XENLA	MGC68562 protein (ribosomal protein, large, P1 L homeolog)	rplp1.L MGC68562 rplp1	Xenopus laevis (African clawed frog)	113
+Q6PAE3	unreviewed	Q6PAE3_XENLA	MGC68448 protein (uncharacterized protein LOC398753 precursor)	hsp90b1.S ecgp gp96 grp94 hsp90b1 MGC68448 tra1	Xenopus laevis (African clawed frog)	805
+Q6PF26	unreviewed	Q6PF26_XENLA	glutamine--tRNA ligase (EC 6.1.1.18) (Glutaminyl-tRNA synthetase)	qars1.S MGC69128 qars qars.S qars1	Xenopus laevis (African clawed frog)	772
+Q6PH94	unreviewed	Q6PH94_XENLA	40S ribosomal protein S12	rps12.S MGC68529 rps12 rps12-a rps12-b rps12b	Xenopus laevis (African clawed frog)	132
+Q6PHL5	unreviewed	Q6PHL5_XENLA	60S ribosomal protein L27	rpl27.S rpl27	Xenopus laevis (African clawed frog)	136
+Q6PHL6	unreviewed	Q6PHL6_XENLA	40S ribosomal protein S19	rps19.S rps19	Xenopus laevis (African clawed frog)	146
+Q6PI76	unreviewed	Q6PI76_XENLA	40S ribosomal protein S14 (40S ribosomal protein S14 isoform X2) (Rps14-prov protein)	rps14.S rps14 rps14-prov rps14.L	Xenopus laevis (African clawed frog)	151
+Q7SY96	unreviewed	Q7SY96_XENLA	Rpl4-b protein	rpl4.S rpl4 rpl4-b	Xenopus laevis (African clawed frog)	401
+Q7SYU0	reviewed	RS8_XENLA	40S ribosomal protein S8	rps8	Xenopus laevis (African clawed frog)	208
+Q7SZ05	unreviewed	Q7SZ05_XENLA	MGC64346 protein (mitochondrial ribosomal protein L44 S homeolog)	mrpl44.S mrpl44	Xenopus laevis (African clawed frog)	322
+Q7SZ77	unreviewed	Q7SZ77_XENLA	40S ribosomal protein S11	rps11.L LOC108702869 rps11	Xenopus laevis (African clawed frog)	158
+Q7SZ87	unreviewed	Q7SZ87_XENLA	60S ribosomal protein L28	rpl28.L l28 rpl28 rpl28-a rpl28-b rpl28.S	Xenopus laevis (African clawed frog)	137
+Q7SZA4	unreviewed	Q7SZA4_XENLA	60S ribosomal protein L18-A (MGC64315 protein)	rpl18.S MGC64315 rpl14a rpl18 rpl18-a rpl18-b rpl18.L	Xenopus laevis (African clawed frog)	188
+Q7SZA5	unreviewed	Q7SZA5_XENLA	60S ribosomal protein L29	rpl29.L rpl29 rpl29-a rpl29-b rpl29a	Xenopus laevis (African clawed frog)	75
+Q7SZA8	unreviewed	Q7SZA8_XENLA	60S ribosomal protein L18-B (Rpl18-b protein)	rpl18.L L14B rpl14b rpl18 rpl18-a rpl18-b rpl18.S	Xenopus laevis (African clawed frog)	188
+Q7SZB0	unreviewed	Q7SZB0_XENLA	60S ribosomal protein L35a	rpl35a.S LOC121393140 rpl35a rpl35a.L	Xenopus laevis (African clawed frog)	110
+Q7SZB2	unreviewed	Q7SZB2_XENLA	60S ribosomal protein L27a	rpl27a.L LOC121400351 rpl27a	Xenopus laevis (African clawed frog)	148
+Q7SZB3	unreviewed	Q7SZB3_XENLA	60S ribosomal protein L21	rpl21.L rpl21	Xenopus laevis (African clawed frog)	160
+Q7SZB4	reviewed	RL37A_XENLA	60S ribosomal protein L37a	rpl37a	Xenopus laevis (African clawed frog)	92
+Q7SZB6	unreviewed	Q7SZB6_XENLA	60S acidic ribosomal protein P2	LOC398653	Xenopus laevis (African clawed frog)	96
+Q7SZB7	unreviewed	Q7SZB7_XENLA	60S ribosomal protein L18a	rpl18a.S MGC64263 rpl18a	Xenopus laevis (African clawed frog)	176
+Q7SZC0	unreviewed	Q7SZC0_XENLA	60S ribosomal protein L30	rpl30.S l30 rpl30 rpl30-a rpl30-b	Xenopus laevis (African clawed frog)	116
+Q7SZT6	unreviewed	Q7SZT6_XENLA	40S ribosomal protein S13	rps13.L rps13	Xenopus laevis (African clawed frog)	151
+Q7SZU0	unreviewed	Q7SZU0_XENLA	Ribosome assembly factor mrt4	mrto4.L mrt4 mrto4	Xenopus laevis (African clawed frog)	240
+Q7T0R9	unreviewed	Q7T0R9_XENLA	40S ribosomal protein S2	rps2.L rps2 rps2e	Xenopus laevis (African clawed frog)	281
+Q7ZTB3	unreviewed	Q7ZTB3_XENLA	Heat shock protein gp96 (heat shock protein 90kDa beta family member 1 L homeolog precursor)	hsp90b1.L ecgp gp96 grp94 hsp90b1 tra1	Xenopus laevis (African clawed frog)	804
+Q7ZWY6	unreviewed	Q7ZWY6_XENLA	60S ribosomal protein L9	rpl9.L rpl9	Xenopus laevis (African clawed frog)	192
+Q7ZWZ7	unreviewed	Q7ZWZ7_XENLA	Ribosomal protein L15	rpl15.L rpl15	Xenopus laevis (African clawed frog)	204
+Q7ZXK4	unreviewed	Q7ZXK4_XENLA	Rpl10-prov protein (ribosomal protein L10 S homeolog (EC 3.6.5.3)) (ribosomal protein L10 S homeolog isoform X1)	rpl10.S rpl10 rpl10.L	Xenopus laevis (African clawed frog)	215
+Q7ZXP8	unreviewed	Q7ZXP8_XENLA	Eef2-prov protein (eukaryotic translation elongation factor 2, gene 1 L homeolog)	eef2.1.L eef-2 eef2 eef2.1 ef2	Xenopus laevis (African clawed frog)	858
+Q7ZXS2	unreviewed	Q7ZXS2_XENLA	DNA topoisomerase 2 (EC 5.6.2.2)	LOC398512	Xenopus laevis (African clawed frog)	1132
+Q7ZXV9	unreviewed	Q7ZXV9_XENLA	Pms1 protein (postmeiotic segregation increased 1)	pms1.S pms1	Xenopus laevis (African clawed frog)	925
+Q7ZXZ9	unreviewed	Q7ZXZ9_XENLA	116 kDa U5 small nuclear ribonucleoprotein component (U5 snRNP-specific protein, 116 kDa)	eftud2.S eftud2 snrp116 snu114	Xenopus laevis (African clawed frog)	974
+Q7ZY09	unreviewed	Q7ZY09_XENLA	40S ribosomal protein S12	rps12.L rps12 rps12-a rps12-b rps12a	Xenopus laevis (African clawed frog)	132
+Q7ZY48	unreviewed	Q7ZY48_XENLA	60S ribosomal protein L13a	rpl13a.L rpl13a	Xenopus laevis (African clawed frog)	231
+Q7ZY53	unreviewed	Q7ZY53_XENLA	60S ribosomal protein L17	rpl17.L RPL17 rpl17	Xenopus laevis (African clawed frog)	187
+Q7ZYQ9	unreviewed	Q7ZYQ9_XENLA	creatine kinase (EC 2.7.3.2)	ckm.L ckm ckm.S ckmm m-ck	Xenopus laevis (African clawed frog)	381
+Q7ZYR1	unreviewed	Q7ZYR1_XENLA	Rpl3-prov protein (ribosomal protein L3 L homeolog (EC 3.6.5.3))	rpl3.L rpl3	Xenopus laevis (African clawed frog)	403
+Q7ZYS1	reviewed	RL19_XENLA	60S ribosomal protein L19	rpl19	Xenopus laevis (African clawed frog)	197
+Q7ZYS8	reviewed	RL10A_XENLA	60S ribosomal protein L10a	rpl10a	Xenopus laevis (African clawed frog)	217
+Q7ZYU0	unreviewed	Q7ZYU0_XENLA	40S ribosomal protein S6	rps6.L rps6 rps6-a rps6-b rps6b	Xenopus laevis (African clawed frog)	249
+Q7ZYU4	unreviewed	Q7ZYU4_XENLA	40S ribosomal protein S9	rps9	Xenopus laevis (African clawed frog)	194
+Q801S3	reviewed	RS3AA_XENLA	40S ribosomal protein S3a-A	rps3a-a	Xenopus laevis (African clawed frog)	264
+Q8AVI3	unreviewed	Q8AVI3_XENLA	60S acidic ribosomal protein P0	rplp0.S arbp l10e lp0 prlp0 rplp0 rpp0	Xenopus laevis (African clawed frog)	315
+Q8AVI7	unreviewed	Q8AVI7_XENLA	60S ribosomal protein L5-B (Rpl5-b protein)	rpl5.L rpl5 rpl5-a rpl5-b	Xenopus laevis (African clawed frog)	296
+Q8AVP6	unreviewed	Q8AVP6_XENLA	Gnb2l1-prov protein (LOC446289 protein) (receptor for activated C kinase 1 L homeolog) (receptor for activated C kinase 1 S homeolog)	rack1.L gnb2-rs1 gnb2l1 h12.3 hlc-7 LOC446289 pig21 rack1 rack1.S	Xenopus laevis (African clawed frog)	317
+Q8AVT6	unreviewed	Q8AVT6_XENLA	Ribosomal RNA-processing protein 43	exosc8.S exosc8 exosc8.L MGC52847	Xenopus laevis (African clawed frog)	276
+Q8AVW0	unreviewed	Q8AVW0_XENLA	60S ribosomal protein L12	rpl12.S rpl12	Xenopus laevis (African clawed frog)	165
+Q8AVX2	unreviewed	Q8AVX2_XENLA	60S ribosomal protein L5-A (Rpl5-a protein)	rpl5.S rpl5 rpl5-a rpl5-b	Xenopus laevis (African clawed frog)	296
+Q8QFW7	unreviewed	Q8QFW7_XENLA	60S ribosomal protein L34	rpl34.S L34 rpl34 rpl34.L XL34 xl34	Xenopus laevis (African clawed frog)	117
+Q91745	unreviewed	Q91745_XENLA	FIII protein (YY1 transcription factor L homeolog isoform X1)	yy1.L FIII ino80s nf-e1 ucrbp xyy1 yin-yang-1 yy1 yy1-a yy1-b	Xenopus laevis (African clawed frog)	373
+A0A1L8EKY9	unreviewed	A0A1L8EKY9_XENLA	39S ribosomal protein L10, mitochondrial	mrpl10.S	Xenopus laevis (African clawed frog)	246
+A0A1L8EMX2	unreviewed	A0A1L8EMX2_XENLA	mitochondrial ribosomal protein S7 S homeolog	mrps7.S	Xenopus laevis (African clawed frog)	233
+A0A1L8ENM5	unreviewed	A0A1L8ENM5_XENLA	60S ribosomal protein L13a	rpl13a.S	Xenopus laevis (African clawed frog)	231
+A0A1L8EQP6	unreviewed	A0A1L8EQP6_XENLA	heat shock protein 75 kDa, mitochondrial	trap1.S	Xenopus laevis (African clawed frog)	709
+A0A1L8EUH6	unreviewed	A0A1L8EUH6_XENLA	galactokinase 1 L homeolog isoform X1	galk1.L galk1	Xenopus laevis (African clawed frog)	388
+A0A1L8EXB7	unreviewed	A0A1L8EXB7_XENLA	39S ribosomal protein L28, mitochondrial	mrpl28.L mrpl28	Xenopus laevis (African clawed frog)	253
+A0A1L8EXL6	unreviewed	A0A1L8EXL6_XENLA	ribosomal L1 domain containing 1 L homeolog isoform X1	rsl1d1.L rsl1d1	Xenopus laevis (African clawed frog)	442
+A0A1L8EYC8	unreviewed	A0A1L8EYC8_XENLA	heat shock protein 75 kDa, mitochondrial	trap1.L	Xenopus laevis (African clawed frog)	709
+A0A1L8F0J1	unreviewed	A0A1L8F0J1_XENLA	28S ribosomal protein S10, mitochondrial	mrps10.S	Xenopus laevis (African clawed frog)	205
+A0A1L8F428	unreviewed	A0A1L8F428_XENLA	28S ribosomal protein S12, mitochondrial	mrps12.S	Xenopus laevis (African clawed frog)	150
+A0A1L8F4J0	unreviewed	A0A1L8F4J0_XENLA	28S ribosomal protein S21, mitochondrial	mrps21.S	Xenopus laevis (African clawed frog)	87
+A0A1L8F5F1	unreviewed	A0A1L8F5F1_XENLA	60S ribosomal protein L10	rpl10.L	Xenopus laevis (African clawed frog)	215
+A0A1L8F8E2	unreviewed	A0A1L8F8E2_XENLA	40S ribosomal protein S5	rps5.L	Xenopus laevis (African clawed frog)	203
+A0A1L8F8Y2	unreviewed	A0A1L8F8Y2_XENLA	exosome complex component RRP46 isoform X2	exosc5.L	Xenopus laevis (African clawed frog)	233
+A0A1L8F991	unreviewed	A0A1L8F991_XENLA	ribosomal protein S6 kinase-like 1	rps6kl1.L	Xenopus laevis (African clawed frog)	446
+A0A1L8F9X7	unreviewed	A0A1L8F9X7_XENLA	heat shock protein HSP 90-alpha isoform X2	hsp90aa1.1.L LOC108698781	Xenopus laevis (African clawed frog)	729
+A0A1L8FBV4	unreviewed	A0A1L8FBV4_XENLA	28S ribosomal protein S21, mitochondrial	mrps21.L	Xenopus laevis (African clawed frog)	87
+A0A1L8FFL0	unreviewed	A0A1L8FFL0_XENLA	60S ribosomal protein L21	LOC108697549	Xenopus laevis (African clawed frog)	160
+A0A1L8FGH6	unreviewed	A0A1L8FGH6_XENLA	60S ribosomal protein L23a-like	LOC108697688	Xenopus laevis (African clawed frog)	151
+A0A1L8FJ49	unreviewed	A0A1L8FJ49_XENLA	39S ribosomal protein L51, mitochondrial	mrpl51.L	Xenopus laevis (African clawed frog)	131
+A0A1L8FLB0	unreviewed	A0A1L8FLB0_XENLA	glucuronokinase 1 isoform X1	XB5896631.L	Xenopus laevis (African clawed frog)	620
+A0A1L8FNR9	unreviewed	A0A1L8FNR9_XENLA	40S ribosomal protein S19	rps19.L	Xenopus laevis (African clawed frog)	145
+A0A1L8FRT8	unreviewed	A0A1L8FRT8_XENLA	39S ribosomal protein L32, mitochondrial	mrpl32.S	Xenopus laevis (African clawed frog)	181
+A0A1L8FTA2	unreviewed	A0A1L8FTA2_XENLA	60S ribosomal protein L7	LOC108695345	Xenopus laevis (African clawed frog)	246
+A0A1L8FV00	unreviewed	A0A1L8FV00_XENLA	39S ribosomal protein L55, mitochondrial	mrpl55.L	Xenopus laevis (African clawed frog)	134
+A0A1L8FWJ9	unreviewed	A0A1L8FWJ9_XENLA	39S ribosomal protein L3, mitochondrial isoform X2	mrpl3.L	Xenopus laevis (African clawed frog)	342
+A0A1L8G152	unreviewed	A0A1L8G152_XENLA	ribosomal protein S6 kinase delta-1	rps6kc1.S	Xenopus laevis (African clawed frog)	1067
+A0A1L8G184	unreviewed	A0A1L8G184_XENLA	ribosomal protein 63, mitochondrial isoform X1	mrpl57.S	Xenopus laevis (African clawed frog)	141
+A0A1L8G6S3	unreviewed	A0A1L8G6S3_XENLA	39S ribosomal protein L33, mitochondrial	mrpl33.L	Xenopus laevis (African clawed frog)	65
+A0A1L8G711	unreviewed	A0A1L8G711_XENLA	39S ribosomal protein L14, mitochondrial	mrpl14.L	Xenopus laevis (African clawed frog)	146
+A0A1L8G7F0	unreviewed	A0A1L8G7F0_XENLA	28S ribosomal protein S5, mitochondrial	mrps5.L	Xenopus laevis (African clawed frog)	400
+A0A1L8GCW7	unreviewed	A0A1L8GCW7_XENLA	ubiquitin-like protein FUBI	fau.S	Xenopus laevis (African clawed frog)	133
+A0A1L8GD13	unreviewed	A0A1L8GD13_XENLA	39S ribosomal protein L11, mitochondrial	mrpl11.S	Xenopus laevis (African clawed frog)	192
+A0A1L8GG11	unreviewed	A0A1L8GG11_XENLA	28S ribosomal protein S14, mitochondrial	mrps14.S	Xenopus laevis (African clawed frog)	131
+A0A1L8GGY4	unreviewed	A0A1L8GGY4_XENLA	U3 small nucleolar ribonucleoprotein protein IMP3	imp3.S	Xenopus laevis (African clawed frog)	183
+A0A1L8GGZ9	unreviewed	A0A1L8GGZ9_XENLA	60S ribosomal protein L3	LOC108715766	Xenopus laevis (African clawed frog)	403
+A0A1L8GHL2	unreviewed	A0A1L8GHL2_XENLA	60S ribosomal protein L32	LOC108715857	Xenopus laevis (African clawed frog)	135
+A0A1L8GHL8	unreviewed	A0A1L8GHL8_XENLA	28S ribosomal protein S25, mitochondrial isoform X1	mrps25.S	Xenopus laevis (African clawed frog)	173
+A0A1L8GLH9	unreviewed	A0A1L8GLH9_XENLA	exosome complex component MTR3	exosc6.L	Xenopus laevis (African clawed frog)	268
+A0A1L8GNV7	unreviewed	A0A1L8GNV7_XENLA	Active regulator of SIRT1 (40S ribosomal protein S19-binding protein 1)	rps19bp1.L	Xenopus laevis (African clawed frog)	149
+A0A1L8GQ49	unreviewed	A0A1L8GQ49_XENLA	60S ribosomal protein L7-like	LOC108714734	Xenopus laevis (African clawed frog)	238
+A0A1L8GQH2	unreviewed	A0A1L8GQH2_XENLA	28S ribosomal protein S33, mitochondrial	mrps33.S	Xenopus laevis (African clawed frog)	106
+A0A1L8GSM2	unreviewed	A0A1L8GSM2_XENLA	39S ribosomal protein L46, mitochondrial	mrpl46.S	Xenopus laevis (African clawed frog)	306
+A0A1L8GUP1	unreviewed	A0A1L8GUP1_XENLA	40S ribosomal protein S16	rps16.S	Xenopus laevis (African clawed frog)	151
+A0A1L8GUR3	unreviewed	A0A1L8GUR3_XENLA	39S ribosomal protein L42, mitochondrial	mrpl42.S	Xenopus laevis (African clawed frog)	153
+A0A1L8GV48	unreviewed	A0A1L8GV48_XENLA	60S ribosomal protein L26	rpl26.S	Xenopus laevis (African clawed frog)	145
+A0A1L8H0X4	unreviewed	A0A1L8H0X4_XENLA	mitochondrial ribosomal protein S11 L homeolog isoform X1	mrps11.L mrps11	Xenopus laevis (African clawed frog)	195
+A0A1L8H0Y3	unreviewed	A0A1L8H0Y3_XENLA	39S ribosomal protein L46, mitochondrial	mrpl46.L	Xenopus laevis (African clawed frog)	278
+A0A1L8H102	unreviewed	A0A1L8H102_XENLA	60S ribosomal protein L37a isoform X3 (60S ribosomal protein L37a-like)	rpl37a.L LOC108711439 LOC108712865	Xenopus laevis (African clawed frog)	92
+A0A1L8H4S4	unreviewed	A0A1L8H4S4_XENLA	60S ribosomal protein L23a	rpl23a.L	Xenopus laevis (African clawed frog)	155
+A0A1L8H595	unreviewed	A0A1L8H595_XENLA	28S ribosomal protein S6, mitochondrial	mrps6.S	Xenopus laevis (African clawed frog)	122
+A0A1L8H8B8	unreviewed	A0A1L8H8B8_XENLA	60S ribosomal protein L24	rpl24.S	Xenopus laevis (African clawed frog)	155
+A0A1L8HAF4	unreviewed	A0A1L8HAF4_XENLA	28S ribosomal protein S31, mitochondrial	mrps31.S	Xenopus laevis (African clawed frog)	407
+A0A1L8HB85	unreviewed	A0A1L8HB85_XENLA	mitochondrial ribosomal protein L48 S homeolog isoform X1	mrpl48.S mrpl48	Xenopus laevis (African clawed frog)	206
+A0A1L8HCS5	unreviewed	A0A1L8HCS5_XENLA	39S ribosomal protein L39, mitochondrial	mrpl39.L	Xenopus laevis (African clawed frog)	354
+A0A1L8HD64	unreviewed	A0A1L8HD64_XENLA	ribosomal protein S6 kinase-related protein	LOC108707957	Xenopus laevis (African clawed frog)	396
+A0A1L8HFU5	unreviewed	A0A1L8HFU5_XENLA	60S ribosomal protein L11	rpl11.L	Xenopus laevis (African clawed frog)	177
+A0A1L8HGE0	unreviewed	A0A1L8HGE0_XENLA	ribosomal protein L24 L homeolog isoform X1	rpl24.L rpl24	Xenopus laevis (African clawed frog)	155
+A0A1L8HIQ9	unreviewed	A0A1L8HIQ9_XENLA	28S ribosomal protein S31, mitochondrial	mrps31.L	Xenopus laevis (African clawed frog)	378
+A0A1L8HMW0	unreviewed	A0A1L8HMW0_XENLA	39S ribosomal protein L54, mitochondrial	mrpl54.S	Xenopus laevis (African clawed frog)	120
+A0A1L8HP88	unreviewed	A0A1L8HP88_XENLA	28S ribosomal protein S18c, mitochondrial isoform X1	mrps18c.S	Xenopus laevis (African clawed frog)	131
+A0A1L8HPH9	unreviewed	A0A1L8HPH9_XENLA	39S ribosomal protein L52, mitochondrial	mrpl52.S mrpl52	Xenopus laevis (African clawed frog)	143
+A0A1L8HVH4	unreviewed	A0A1L8HVH4_XENLA	39S ribosomal protein L1, mitochondrial isoform X1	mrpl1.L	Xenopus laevis (African clawed frog)	340
+A0A1L8HWF1	unreviewed	A0A1L8HWF1_XENLA	60S ribosomal protein L27-like	LOC108712230	Xenopus laevis (African clawed frog)	117
+A0A1L8HXI2	unreviewed	A0A1L8HXI2_XENLA	39S ribosomal protein L34, mitochondrial	LOC108713416	Xenopus laevis (African clawed frog)	112
+A0A1L8HYR6	unreviewed	A0A1L8HYR6_XENLA	39S ribosomal protein L52, mitochondrial	mrpl52.L	Xenopus laevis (African clawed frog)	144
+A0A1L8I1W4	unreviewed	A0A1L8I1W4_XENLA	60S ribosomal protein L6	rpl6.L	Xenopus laevis (African clawed frog)	258
+A0A1L8I2U3	unreviewed	A0A1L8I2U3_XENLA	uncharacterized protein LOC398780 isoform X1	eef2.2.L MGC68699	Xenopus laevis (African clawed frog)	859
+A0A310U8N3	unreviewed	A0A310U8N3_XENLA	28S ribosomal protein S18c, mitochondrial	mrps18c.L	Xenopus laevis (African clawed frog)	131
+A0A8J0Q5Z8	unreviewed	A0A8J0Q5Z8_XENLA	mitochondrial ribosomal protein L38 L homeolog	mrpl38.L mrpl38	Xenopus laevis (African clawed frog)	380
+A0A8J0T0M4	unreviewed	A0A8J0T0M4_XENLA	39S ribosomal protein L51, mitochondrial	mrpl51.L	Xenopus laevis (African clawed frog)	128
+A0A8J0TAW7	unreviewed	A0A8J0TAW7_XENLA	glucuronokinase 1 isoform X2	XB5896631.L	Xenopus laevis (African clawed frog)	578
+A0A8J0TIE7	unreviewed	A0A8J0TIE7_XENLA	heat shock protein HSP 90-alpha isoform X1	LOC108698781	Xenopus laevis (African clawed frog)	734
+A0A8J0TJJ3	unreviewed	A0A8J0TJJ3_XENLA	ribosomal protein S6 kinase 2 beta-like	LOC108698235	Xenopus laevis (African clawed frog)	87
+A0A8J0TQ76	unreviewed	A0A8J0TQ76_XENLA	60S ribosomal protein L35	LOC108700022	Xenopus laevis (African clawed frog)	123
+A0A8J0TQG0	unreviewed	A0A8J0TQG0_XENLA	39S ribosomal protein L1, mitochondrial isoform X2	mrpl1.S	Xenopus laevis (African clawed frog)	330
+A0A8J0TR95	unreviewed	A0A8J0TR95_XENLA	60S ribosomal protein L35	LOC108700022	Xenopus laevis (African clawed frog)	155
+A0A8J0TTM6	unreviewed	A0A8J0TTM6_XENLA	ribosomal L1 domain-containing protein 1 isoform X2	rsl1d1.S	Xenopus laevis (African clawed frog)	451
+A0A8J0TTX1	unreviewed	A0A8J0TTX1_XENLA	39S ribosomal protein L27, mitochondrial	mrpl27.L	Xenopus laevis (African clawed frog)	144
+A0A8J0U152	unreviewed	A0A8J0U152_XENLA	ribosomal L1 domain-containing protein 1 isoform X1	rsl1d1.S	Xenopus laevis (African clawed frog)	452
+A0A8J0U1A8	unreviewed	A0A8J0U1A8_XENLA	60S ribosomal protein L3-like	rpl3l.S	Xenopus laevis (African clawed frog)	437
+A0A8J0UAI6	unreviewed	A0A8J0UAI6_XENLA	mitochondrial ribosomal protein L48 S homeolog isoform X3	mrpl48.S mrpl48	Xenopus laevis (African clawed frog)	179
+A0A8J0UAX0	unreviewed	A0A8J0UAX0_XENLA	40S ribosomal protein S10 isoform X1	rps10.L rps10	Xenopus laevis (African clawed frog)	180
+A0A8J0UB49	unreviewed	A0A8J0UB49_XENLA	elongation factor 2	LOC108707348	Xenopus laevis (African clawed frog)	859
+A0A8J0UBF2	unreviewed	A0A8J0UBF2_XENLA	elongation factor 2	eef2.1.S	Xenopus laevis (African clawed frog)	858
+A0A8J0UI92	unreviewed	A0A8J0UI92_XENLA	28S ribosomal protein S23, mitochondrial-like	LOC108708365	Xenopus laevis (African clawed frog)	185
+A0A8J0UIE1	unreviewed	A0A8J0UIE1_XENLA	39S ribosomal protein L42, mitochondrial isoform X1	mrpl42.L	Xenopus laevis (African clawed frog)	102
+A0A8J0UIN0	unreviewed	A0A8J0UIN0_XENLA	mitochondrial ribosomal protein L48 S homeolog isoform X2	mrpl48.S mrpl48	Xenopus laevis (African clawed frog)	180
+A0A8J0UN43	unreviewed	A0A8J0UN43_XENLA	galactokinase 2 L homeolog isoform X2	galk2.L galk2	Xenopus laevis (African clawed frog)	409
+A0A8J0UNT7	unreviewed	A0A8J0UNT7_XENLA	40S ribosomal protein S14 isoform X1	rps14.L	Xenopus laevis (African clawed frog)	157
+A0A8J0UPM2	unreviewed	A0A8J0UPM2_XENLA	39S ribosomal protein L42, mitochondrial isoform X2	mrpl42.L	Xenopus laevis (African clawed frog)	90
+A0A8J0UPN4	unreviewed	A0A8J0UPN4_XENLA	60S ribosomal protein L18a	rpl18a.L	Xenopus laevis (African clawed frog)	176
+A0A8J0UR29	unreviewed	A0A8J0UR29_XENLA	galactokinase 2 L homeolog isoform X1	galk2.L galk2	Xenopus laevis (African clawed frog)	435
+A0A8J0URP6	unreviewed	A0A8J0URP6_XENLA	39S ribosomal protein L1, mitochondrial isoform X2	mrpl1.L	Xenopus laevis (African clawed frog)	335
+A0A8J0US80	unreviewed	A0A8J0US80_XENLA	28S ribosomal protein S24-A, mitochondrial	LOC108710319	Xenopus laevis (African clawed frog)	133
+A0A8J0UV37	unreviewed	A0A8J0UV37_XENLA	28S ribosomal protein S11, mitochondrial	mrps11.S	Xenopus laevis (African clawed frog)	195
+A0A8J0UZJ8	unreviewed	A0A8J0UZJ8_XENLA	39S ribosomal protein L52, mitochondrial	mrpl52.L	Xenopus laevis (African clawed frog)	145
+A0A8J0V3X0	unreviewed	A0A8J0V3X0_XENLA	28S ribosomal protein S25, mitochondrial isoform X2	mrps25.S	Xenopus laevis (African clawed frog)	171
+A0A8J0V5E7	unreviewed	A0A8J0V5E7_XENLA	ribosomal protein L7 like 1 L homeolog isoform X1	rpl7l1.L rpl7l1	Xenopus laevis (African clawed frog)	250
+A0A8J0VBR2	unreviewed	A0A8J0VBR2_XENLA	28S ribosomal protein S27, mitochondrial	mrps27.L	Xenopus laevis (African clawed frog)	404
+A0A8J0VD10	unreviewed	A0A8J0VD10_XENLA	39S ribosomal protein L47, mitochondrial isoform X1	mrpl47.L	Xenopus laevis (African clawed frog)	251
+A0A8J0VHB1	unreviewed	A0A8J0VHB1_XENLA	39S ribosomal protein L47, mitochondrial isoform X2	mrpl47.L	Xenopus laevis (African clawed frog)	247
+A0A8J0VIY2	unreviewed	A0A8J0VIY2_XENLA	mitochondrial ribosomal protein L3 S homeolog isoform X1	mrpl3.S mrpl3	Xenopus laevis (African clawed frog)	298
+A0A8J0VK53	unreviewed	A0A8J0VK53_XENLA	ribosomal protein 63, mitochondrial isoform X2	mrpl57.S	Xenopus laevis (African clawed frog)	104
+A0A8J0VM23	unreviewed	A0A8J0VM23_XENLA	39S ribosomal protein L19, mitochondrial	mrpl19.S	Xenopus laevis (African clawed frog)	274
+A0A8J0VNS6	unreviewed	A0A8J0VNS6_XENLA	39S ribosomal protein L3, mitochondrial isoform X1	mrpl3.L	Xenopus laevis (African clawed frog)	359
+A0A8J1KJL7	unreviewed	A0A8J1KJL7_XENLA	ribosomal protein S6 kinase beta-2	LOC108715263	Xenopus laevis (African clawed frog)	164
+A0A8J1KMJ1	unreviewed	A0A8J1KMJ1_XENLA	heat shock protein HSP 90-beta isoform X2	LOC108716102	Xenopus laevis (African clawed frog)	724
+A0A8J1KMK0	unreviewed	A0A8J1KMK0_XENLA	heat shock protein HSP 90-beta isoform X1	LOC108716102	Xenopus laevis (African clawed frog)	725
+A0A8J1KPZ9	unreviewed	A0A8J1KPZ9_XENLA	28S ribosomal protein S22, mitochondrial isoform X1	mrps22.L	Xenopus laevis (African clawed frog)	326
+A0A8J1KRL6	unreviewed	A0A8J1KRL6_XENLA	28S ribosomal protein S22, mitochondrial isoform X2	mrps22.L	Xenopus laevis (African clawed frog)	308
+A0A8J1KRV9	unreviewed	A0A8J1KRV9_XENLA	60S ribosomal protein L11	LOC108717404	Xenopus laevis (African clawed frog)	220
+A0A8J1KRW7	unreviewed	A0A8J1KRW7_XENLA	60S ribosomal protein L35a	LOC108705784	Xenopus laevis (African clawed frog)	124
+A0A8J1KTJ6	unreviewed	A0A8J1KTJ6_XENLA	40S ribosomal protein S14-like	LOC108717492	Xenopus laevis (African clawed frog)	180
+A0A8J1KWC5	unreviewed	A0A8J1KWC5_XENLA	28S ribosomal protein S28, mitochondrial-like	LOC121394503	Xenopus laevis (African clawed frog)	154
+A0A8J1L4V3	unreviewed	A0A8J1L4V3_XENLA	39S ribosomal protein L51, mitochondrial	mrpl51.L	Xenopus laevis (African clawed frog)	125
+A0A8J1L7T3	unreviewed	A0A8J1L7T3_XENLA	ribosomal protein S6 kinase beta-2-like	LOC121395362	Xenopus laevis (African clawed frog)	77
+A0A8J1LCE1	unreviewed	A0A8J1LCE1_XENLA	ribosomal protein S6 kinase alpha-4-like	LOC121396125	Xenopus laevis (African clawed frog)	122
+A0A8J1LD47	unreviewed	A0A8J1LD47_XENLA	ribosomal protein S6 kinase beta-1-like	LOC108705858	Xenopus laevis (African clawed frog)	122
+A0A8J1LE87	unreviewed	A0A8J1LE87_XENLA	ribosomal protein S6 kinase alpha-5-like	LOC121396648	Xenopus laevis (African clawed frog)	124
+A0A8J1LEM9	unreviewed	A0A8J1LEM9_XENLA	ribosomal protein L36a L homeolog isoform X1	rpl36a.L rpl36a rpl36a.S	Xenopus laevis (African clawed frog)	112
+A0A8J1LGA3	unreviewed	A0A8J1LGA3_XENLA	ribosomal protein S6 kinase alpha-5-like	LOC121396642	Xenopus laevis (African clawed frog)	117
+A0A8J1LH73	unreviewed	A0A8J1LH73_XENLA	exosome complex component RRP46 isoform X1	exosc5.L	Xenopus laevis (African clawed frog)	279
+A0A8J1LJN4	unreviewed	A0A8J1LJN4_XENLA	28S ribosomal protein S29, mitochondrial isoform X2	dap3.L	Xenopus laevis (African clawed frog)	366
+A0A8J1LJV2	unreviewed	A0A8J1LJV2_XENLA	28S ribosomal protein S29, mitochondrial isoform X1	dap3.L	Xenopus laevis (African clawed frog)	396
+A0A8J1LNG7	unreviewed	A0A8J1LNG7_XENLA	60S ribosomal protein L36a isoform X3	LOC108700056	Xenopus laevis (African clawed frog)	87
+A0A8J1LP69	unreviewed	A0A8J1LP69_XENLA	ribosomal L1 domain containing 1 L homeolog isoform X3	rsl1d1.L rsl1d1	Xenopus laevis (African clawed frog)	360
+A0A8J1LP96	unreviewed	A0A8J1LP96_XENLA	ribosomal L1 domain containing 1 L homeolog isoform X2	rsl1d1.L rsl1d1	Xenopus laevis (African clawed frog)	399
+A0A8J1LRQ1	unreviewed	A0A8J1LRQ1_XENLA	39S ribosomal protein L45, mitochondrial isoform X1	mrpl45.L mrlp45 mrpl45	Xenopus laevis (African clawed frog)	299
+A0A8J1M0I8	unreviewed	A0A8J1M0I8_XENLA	60S ribosomal protein L10	LOC108706079	Xenopus laevis (African clawed frog)	141
+A0A8J1M314	unreviewed	A0A8J1M314_XENLA	28S ribosomal protein S18c, mitochondrial isoform X2	mrps18c.S	Xenopus laevis (African clawed frog)	114
+A0A8J1MC03	unreviewed	A0A8J1MC03_XENLA	ribosomal protein S6 kinase alpha-5-like	LOC121400386	Xenopus laevis (African clawed frog)	210
+A0A8J1ME34	unreviewed	A0A8J1ME34_XENLA	ribosomal protein S6 kinase alpha-3-like isoform X2	LOC121400621	Xenopus laevis (African clawed frog)	242
+A0A8J1MEQ8	unreviewed	A0A8J1MEQ8_XENLA	ribosomal protein S6 kinase 2 beta-like	LOC121400576	Xenopus laevis (African clawed frog)	175
+A0A8J1MF11	unreviewed	A0A8J1MF11_XENLA	ribosomal protein S6 kinase alpha-3-like isoform X1	LOC121400621	Xenopus laevis (African clawed frog)	296
+A0A8J1MG32	unreviewed	A0A8J1MG32_XENLA	28S ribosomal protein S23, mitochondrial-like	LOC108709120	Xenopus laevis (African clawed frog)	206
+A0A8J1MID2	unreviewed	A0A8J1MID2_XENLA	mitochondrial ribosomal protein S11 L homeolog isoform X2	mrps11.L mrps11	Xenopus laevis (African clawed frog)	195
+A0A8J1MJS6	unreviewed	A0A8J1MJS6_XENLA	39S ribosomal protein L22, mitochondrial	mrpl22.L	Xenopus laevis (African clawed frog)	204
+A0A8J1MQ48	unreviewed	A0A8J1MQ48_XENLA	28S ribosomal protein S35, mitochondrial isoform X2	LOC108712266	Xenopus laevis (African clawed frog)	314
+A0A8J1MR07	unreviewed	A0A8J1MR07_XENLA	60S ribosomal protein L37a isoform X2	LOC108712865	Xenopus laevis (African clawed frog)	94
+A0A8J1MRB4	unreviewed	A0A8J1MRB4_XENLA	28S ribosomal protein S35, mitochondrial isoform X1	LOC108712266	Xenopus laevis (African clawed frog)	318
+A0A8J1MRV6	unreviewed	A0A8J1MRV6_XENLA	60S ribosomal protein L37a isoform X1	LOC108712865	Xenopus laevis (African clawed frog)	95
+A0A8J1MS70	unreviewed	A0A8J1MS70_XENLA	LOW QUALITY PROTEIN: elongation factor-like GTPase 1	LOC108712883	Xenopus laevis (African clawed frog)	1143
+A0A8J1MSC5	unreviewed	A0A8J1MSC5_XENLA	28S ribosomal protein S35, mitochondrial isoform X3	LOC108712266	Xenopus laevis (African clawed frog)	258
+A0A8J1MTC9	unreviewed	A0A8J1MTC9_XENLA	ribosomal protein S13 L homeolog isoform X1	rps13.L rps13	Xenopus laevis (African clawed frog)	155
+A0A8J1MVZ1	unreviewed	A0A8J1MVZ1_XENLA	ribosomal protein S6 kinase beta-1-like	LOC121402816 LOC121402815	Xenopus laevis (African clawed frog)	114
+A0A8J1MYL8	unreviewed	A0A8J1MYL8_XENLA	60S ribosomal protein L13	LOC121393045	Xenopus laevis (African clawed frog)	211
+A0A8J1MYQ8	unreviewed	A0A8J1MYQ8_XENLA	39S ribosomal protein L1, mitochondrial isoform X3	mrpl1.L	Xenopus laevis (African clawed frog)	274
+A1L1C1	unreviewed	A1L1C1_XENLA	LOC100037062 protein (uncharacterized protein LOC100037062)	rpl22l1.L LOC100037062 rpl22l1	Xenopus laevis (African clawed frog)	123
+A2BD75	unreviewed	A2BD75_XENLA	LOC100037111 protein	LOC100037111	Xenopus laevis (African clawed frog)	169
+A2BD80	unreviewed	A2BD80_XENLA	LOC733390 protein (mitochondrial ribosomal protein L37 L homeolog)	mrpl37.L LOC733390 mrpl37	Xenopus laevis (African clawed frog)	417
+A2BDA8	unreviewed	A2BDA8_XENLA	60S ribosomal protein L7a	LOC100037086	Xenopus laevis (African clawed frog)	263
+A2VD81	unreviewed	A2VD81_XENLA	LOC100037184 protein	LOC100037184	Xenopus laevis (African clawed frog)	405
+A2VDD3	unreviewed	A2VDD3_XENLA	PDCD9 protein	PDCD9	Xenopus laevis (African clawed frog)	407
+A3KMT6	unreviewed	A3KMT6_XENLA	60S ribosomal protein L13	LOC100049095	Xenopus laevis (African clawed frog)	211
+A4FVD7	unreviewed	A4FVD7_XENLA	LOC443704 protein (mitochondrial ribosomal protein S2 L homeolog)	mrps2.L LOC443704 mrps2	Xenopus laevis (African clawed frog)	280
+A5D8M3	unreviewed	A5D8M3_XENLA	28S ribosomal protein S25, mitochondrial (LOC100049746 protein)	mrps25.L LOC100049746 mrps25	Xenopus laevis (African clawed frog)	173
+A7YYL5	unreviewed	A7YYL5_XENLA	40S ribosomal protein S12	LOC100126614	Xenopus laevis (African clawed frog)	132
+A7YYL7	unreviewed	A7YYL7_XENLA	LOC100126616 protein (mitochondrial ribosomal protein L32 L homeolog)	mrpl32.L LOC100126616 mrpl32	Xenopus laevis (African clawed frog)	181
+A9JS80	unreviewed	A9JS80_XENLA	LOC100127333 protein	LOC100127333	Xenopus laevis (African clawed frog)	397
+A9JS90	unreviewed	A9JS90_XENLA	LOC100127340 protein (mitochondrial ribosomal protein S35 L homeolog)	mrps35.L LOC100127340 mrps35	Xenopus laevis (African clawed frog)	324
+A9ULT4	unreviewed	A9ULT4_XENLA	PDCD9 protein	PDCD9	Xenopus laevis (African clawed frog)	414
+A9ULY3	unreviewed	A9ULY3_XENLA	LOC100137646 protein (ribosomal L1 domain containing 1 L homeolog)	rsl1d1.L LOC100137646 rsl1d1	Xenopus laevis (African clawed frog)	318
+B7ZPG6	unreviewed	B7ZPG6_XENLA	40S ribosomal small subunit protein S10	rps10.L LOC445824 rps10	Xenopus laevis (African clawed frog)	165
+Q0D265	unreviewed	Q0D265_XENLA	LOC733351 protein (uncharacterized protein LOC733351)	mrps2.S LOC733351	Xenopus laevis (African clawed frog)	282
+Q0D269	unreviewed	Q0D269_XENLA	LOC733390 protein	LOC733390	Xenopus laevis (African clawed frog)	416
+Q3B8C9	unreviewed	Q3B8C9_XENLA	MGC131350 protein (uncharacterized protein LOC735199)	mrps30.L MGC131350 mrps30	Xenopus laevis (African clawed frog)	414
+Q3B8D1	unreviewed	Q3B8D1_XENLA	LOC733400 protein	LOC733400	Xenopus laevis (African clawed frog)	172
+Q3B8G6	unreviewed	Q3B8G6_XENLA	LOC733390 protein	LOC733390	Xenopus laevis (African clawed frog)	410
+Q3B8I3	unreviewed	Q3B8I3_XENLA	MGC130910 protein (ribosomal protein L7 L homeolog)	rpl7.L MGC130910 rpl7	Xenopus laevis (African clawed frog)	246
+Q3KPN0	unreviewed	Q3KPN0_XENLA	LOC733385 protein	LOC733385	Xenopus laevis (African clawed frog)	446
+Q3KPT2	unreviewed	Q3KPT2_XENLA	MGC131341 protein (mitochondrial ribosomal protein L21 L homeolog)	mrpl21.L MGC131341 mrpl21	Xenopus laevis (African clawed frog)	201
+Q3KPZ9	unreviewed	Q3KPZ9_XENLA	LOC733351 protein	LOC733351	Xenopus laevis (African clawed frog)	278
+Q3KQC9	unreviewed	Q3KQC9_XENLA	Rps16 protein	rps16	Xenopus laevis (African clawed frog)	146
+Q3KQE8	unreviewed	Q3KQE8_XENLA	LOC446962 protein	LOC446962	Xenopus laevis (African clawed frog)	245
+Q4FZQ3	unreviewed	Q4FZQ3_XENLA	60S ribosomal protein L34	rpl34	Xenopus laevis (African clawed frog)	117
+Q4KLC7	unreviewed	Q4KLC7_XENLA	LOC733302 protein	LOC733302	Xenopus laevis (African clawed frog)	224
+Q4KLD4	unreviewed	Q4KLD4_XENLA	LOC734162 protein	LOC734162	Xenopus laevis (African clawed frog)	352
+Q4QR16	unreviewed	Q4QR16_XENLA	60S ribosomal protein L28		Xenopus laevis (African clawed frog)	137
+Q4QR21	unreviewed	Q4QR21_XENLA	Mitochondrial ribosomal protein S2		Xenopus laevis (African clawed frog)	274
+Q52MA1	unreviewed	Q52MA1_XENLA	Tr-type G domain-containing protein		Xenopus laevis (African clawed frog)	858
+Q5M779	unreviewed	Q5M779_XENLA	LOC496259 protein (mitochondrial ribosomal protein L11 L homeolog)	mrpl11.L LOC496259 mrpl11	Xenopus laevis (African clawed frog)	192
+Q5M780	unreviewed	Q5M780_XENLA	LOC496258 protein (mitochondrial ribosomal protein L13 S homeolog)	mrpl13.S LOC496258 mrpl13	Xenopus laevis (African clawed frog)	179
+Q5PPY0	unreviewed	Q5PPY0_XENLA	Ribosomal RNA-processing protein 43	exosc8.L LOC496046	Xenopus laevis (African clawed frog)	276
+Q5PQ94	unreviewed	Q5PQ94_XENLA	LOC495942 protein (exosome component 4 S homeolog)	exosc4.S exosc4 LOC495942	Xenopus laevis (African clawed frog)	249
+Q5U275	unreviewed	Q5U275_XENLA	LOC495666 protein	LOC495666	Xenopus laevis (African clawed frog)	317
+Q5U572	unreviewed	Q5U572_XENLA	LOC495349 protein (ribosomal protein L7 like 1 L homeolog)	rpl7l1.L LOC495349 rpl7l1	Xenopus laevis (African clawed frog)	246
+Q5XG52	unreviewed	Q5XG52_XENLA	LOC495212 protein (mitochondrial ribosomal protein L48 S homeolog)	mrpl48.S LOC495212 mrpl48	Xenopus laevis (African clawed frog)	207
+Q66GU9	unreviewed	Q66GU9_XENLA	LOC446962 protein	LOC446962	Xenopus laevis (African clawed frog)	244
+Q66IS0	unreviewed	Q66IS0_XENLA	MGC85354 protein (mitochondrial ribosomal protein L53 L homeolog)	mrpl53.L MGC85354 mrpl53	Xenopus laevis (African clawed frog)	108
+Q66KW5	unreviewed	Q66KW5_XENLA	MGC85374 protein (ribosomal protein L32 L homeolog)	rpl32.L MGC85374 rpl32	Xenopus laevis (African clawed frog)	135
+Q66L23	unreviewed	Q66L23_XENLA	MGC85232 protein (ribosomal protein L24 L homeolog)	rpl24.L MGC85232 rpl24	Xenopus laevis (African clawed frog)	139
+Q68ES9	unreviewed	Q68ES9_XENLA	MGC84749 protein	MGC84749	Xenopus laevis (African clawed frog)	420
+Q6AZM9	unreviewed	Q6AZM9_XENLA	Eft-2-prov protein	eft-2-prov	Xenopus laevis (African clawed frog)	850
+Q6DDU3	unreviewed	Q6DDU3_XENLA	Exosc7-prov protein (exosome component 7 S homeolog)	exosc7.S exosc7 exosc7-prov	Xenopus laevis (African clawed frog)	291
+Q6DE41	unreviewed	Q6DE41_XENLA	39S ribosomal protein L1, mitochondrial isoform X1 (Mrpl1-prov protein)	mrpl1.S mrpl1 mrpl1-prov	Xenopus laevis (African clawed frog)	332
+Q6DJQ0	unreviewed	Q6DJQ0_XENLA	60S ribosomal protein L26	rpl26.L	Xenopus laevis (African clawed frog)	145
+Q6EE38	unreviewed	Q6EE38_XENLA	60S ribosomal protein L7a		Xenopus laevis (African clawed frog)	238
+Q6EE51	unreviewed	Q6EE51_XENLA	60S ribosomal protein L17		Xenopus laevis (African clawed frog)	157
+Q6EE52	unreviewed	Q6EE52_XENLA	60S ribosomal protein L13		Xenopus laevis (African clawed frog)	178
+Q6EE53	unreviewed	Q6EE53_XENLA	40S ribosomal protein S8		Xenopus laevis (African clawed frog)	189
+Q6EE54	unreviewed	Q6EE54_XENLA	Ribosomal protein		Xenopus laevis (African clawed frog)	184
+Q6GM43	unreviewed	Q6GM43_XENLA	LOC443704 protein	LOC443704	Xenopus laevis (African clawed frog)	277
+Q6GNB4	unreviewed	Q6GNB4_XENLA	LOC445824 protein	LOC445824	Xenopus laevis (African clawed frog)	174
+Q6GNL0	unreviewed	Q6GNL0_XENLA	MGC81028 protein (ribosomal L24 domain containing 1 L homeolog)	rsl24d1.L MGC81028 rlp24 rpl24 rpl24l rsl24d1 rvas3	Xenopus laevis (African clawed frog)	163
+Q6INM7	unreviewed	Q6INM7_XENLA	MGC82344 protein	mrpl11.S MGC82344 mrpl11	Xenopus laevis (African clawed frog)	192
+Q6INR4	unreviewed	Q6INR4_XENLA	IMP3, U3 small nucleolar ribonucleoprotein L homeolog (MGC81216 protein)	imp3.L imp3 MGC81216	Xenopus laevis (African clawed frog)	183
+Q6INX6	unreviewed	Q6INX6_XENLA	MGC80065 protein (ribosomal protein S16 L homeolog)	rps16.L MGC80065 rps16	Xenopus laevis (African clawed frog)	106
+Q7LZK4	unreviewed	Q7LZK4_XENLA	Translation elongation factor eEF-2		Xenopus laevis (African clawed frog)	60
+Q7LZL4	unreviewed	Q7LZL4_XENLA	40S ribosomal protein S18		Xenopus laevis (African clawed frog)	51
+Q7SYU3	unreviewed	Q7SYU3_XENLA	MGC64490 protein (ribosomal protein S5 S homeolog) (ribosomal protein S5 S homeolog isoform X1)	rps5.S rps5	Xenopus laevis (African clawed frog)	203
+Q7SYY3	unreviewed	Q7SYY3_XENLA	Mrps17-prov protein (mitochondrial ribosomal protein S17 L homeolog) (mitochondrial ribosomal protein S17 L homeolog isoform X1)	mrps17.L mrps17	Xenopus laevis (African clawed frog)	141
+Q7SZ18	unreviewed	Q7SZ18_XENLA	Mrps12-prov protein (mitochondrial ribosomal protein S12 L homeolog)	mrps12.L mrps12	Xenopus laevis (African clawed frog)	150
+Q7SZA3	unreviewed	Q7SZA3_XENLA	40S ribosomal protein S24		Xenopus laevis (African clawed frog)	73
+Q7SZU3	unreviewed	Q7SZU3_XENLA	Rps10-prov protein (ribosomal protein S10 S homeolog)	rps10.S rps10	Xenopus laevis (African clawed frog)	165
+Q7T0R2	unreviewed	Q7T0R2_XENLA	LOC398682 protein	LOC398682	Xenopus laevis (African clawed frog)	443
+Q7T0R5	unreviewed	Q7T0R5_XENLA	MGC69054 protein (mitochondrial ribosomal protein L18 L homeolog)	mrpl18.L mrpl18	Xenopus laevis (African clawed frog)	175
+Q7ZWW8	unreviewed	Q7ZWW8_XENLA	Mrps34-prov protein (mitochondrial ribosomal protein S34 S homeolog)	mrps34.S mrps34	Xenopus laevis (African clawed frog)	215
+Q7ZXI6	unreviewed	Q7ZXI6_XENLA	Galk2-prov protein (galactokinase 2 L homeolog (EC 2.7.1.157))	galk2.L galk2	Xenopus laevis (African clawed frog)	460
+Q7ZY27	unreviewed	Q7ZY27_XENLA	MGC54002 protein (mitochondrial ribosomal protein L43 L homeolog)	mrpl43.L mrpl43	Xenopus laevis (African clawed frog)	156
+Q7ZYQ2	unreviewed	Q7ZYQ2_XENLA	MGC53444 protein (ribosomal L24 domain containing 1 S homeolog)	rsl24d1.S rlp24 rpl24 rpl24l rsl24d1 rvas3	Xenopus laevis (African clawed frog)	163
+Q7ZYQ8	unreviewed	Q7ZYQ8_XENLA	60S ribosomal protein L18a	RPL18A	Xenopus laevis (African clawed frog)	178
+Q8AVQ1	unreviewed	Q8AVQ1_XENLA	60S ribosomal protein L13		Xenopus laevis (African clawed frog)	211
+Q90Z99	unreviewed	Q90Z99_XENLA	PDCD9 (mitochondrial ribosomal protein S30 S homeolog)	mrps30.S mrps30 PDCD9 pdcd9	Xenopus laevis (African clawed frog)	414
+Q91834	unreviewed	Q91834_XENLA	Fragment of Xenopus laevis ribosomal protein S19		Xenopus laevis (African clawed frog)	142
+Q98TH4	unreviewed	Q98TH4_XENLA	Ribosomal protein S14	S14	Xenopus laevis (African clawed frog)	37
+Q9W7I1	unreviewed	Q9W7I1_XENLA	Activated protein kinase C receptor	RACK1	Xenopus laevis (African clawed frog)	317
