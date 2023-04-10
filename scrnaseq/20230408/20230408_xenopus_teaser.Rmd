@@ -1,0 +1,194 @@
+---
+title: "Xenopus"
+author: "ChangHee Lee"
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+output: 
+  html_document:
+    df_print: paged
+    code_folding: hide
+    toc: true
+    toc_float: true
+    number_sections: true
+---
+
+# Objectives & Background
+
+This is a teaser RMarkdown document to give you an idea and tinker with RStudio for tomorrow's session (Seurat).
+
+# RStudio Preparations
+
+We assume that you have installed the latest R on your laptop (currently R 4.2.3), and also updated to the latest RStudio (in my case it is 2023.03.0+386 (2023.03.0+386)).
+
+The following code ensures that the packages that I am installing are placed on a defined directory
+
+```{r}
+.libPaths("~/R_xenopus")
+.libPaths()
+```
+
+The following code installs [Bioconductor](https://www.bioconductor.org/install/) package manager. `eval=FALSE` ensures that it does not run two times during RMarkdown generation.
+
+```{r eval=FALSE}
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install(version = "3.16")
+```
+
+Now let us install `Seurat`, but one of the strength of R comes from sets of packages developed by the `RStudio` group: `tidyverse`, so let's install this as well (you may have it installed already). And I want to add one more small package `tictoc` that is handy in measuring how long it took to run a patch of code.
+
+During this installation run, which will take few minutes, it asks whether `igraph` package should be compiled in the system. At least in Mac OSX (on 2023-04-07), this fails, so  so do not compile `igraph` but just use the older pre-compiled version instead.
+ 
+```{r eval=FALSE}
+BiocManager::install(c("tidyverse", "Seurat", "tictoc") )
+```
+
+The following code ensures that the packages are all up-to-date. Note that `igraph` package is out of date, but this is OK, leave it.
+
+```{r}
+BiocManager::valid()
+```
+
+The above `BiocManager::valid()` run already ran `sessionInfo()` but for all R runs, please include this for reproducibility purposes. This lists all the R packages installed in the system (as directed by `.libPaths()`) with all the versions, so you can track for any issues of reproducibility here.
+
+```{r}
+sessionInfo()
+```
+
+Double check where you are. This gives you a sense when you want to use relative URLs later:
+```{r}
+getwd()
+```
+
+(It should be the project folder on your top right corner of RStudio)
+
+
+
+# Load libraries
+
+First you load the libraries. These commands will let you use their open functions without invoking the package names.
+
+```{r}
+library(tidyverse) # we mostly use dplyr library
+library(Seurat)
+library(patchwork)
+```
+
+If you want to use a specific function from a package you did NOT load by `library` command, you can always use `[library name]::[function name]` which I am going to do in a minute with `tictoc` library:
+
+```{r}
+tictoc::tic() # this is a function from the tictoc package
+tictoc::toc() # this is a function from the tictoc package
+```
+
+Why is it (sometimes) important? Sometimes, if you load too many libraries, depending on the **order**, some functions from different packages with identical names can be overridden, and you create an ambiguity what function to use, so it might be necessary to specify where the function is coming from.
+
+# Loading the original 10X count matrix to Seurat
+
+Now let's read a 10X `cellranger` generated count matrix. `Seurat` has a handy function called `Read10X` to load the data into a sparse matrix format (`dgCMatrix`). In the class, we will check where these data are coming from, but it suffices to provide the directory where the necessary files are present:
+
+```{r}
+tictoc::tic()
+#xenopus.data <- Seurat::Read10X(data.dir = "/Users/chlee/Dropbox (HMS)/tabinLab/presentation/20230408(XenopusBioinfo2023)/scCapSt27_count/outs/filtered_gene_bc_matrices/XENLA_GCA001663975v1_XBv9p2")
+
+xenopus.data <- Seurat::Read10X(data.dir = "./scCapSt27_count/outs/filtered_gene_bc_matrices/XENLA_GCA001663975v1_XBv9p2")
+
+tictoc::toc()
+```
+
+
+```{r}
+class(xenopus.data)
+head(xenopus.data[,1:30]) # only the first 30 cellular barcodes
+```
+
+For this matrix, the rows represent genes(features), and the columns represent cellular barcodes. You can have a peek of how the cell names are represented:
+
+```{r}
+head( colnames(xenopus.data) )
+
+nchar("AAACCTGAGCTATGCT-1")
+```
+
+This is typical output from `cellranger` where 18bp barcode sequence is suffixed with `-1`.
+
+
+Now let's make a `SeuratObject` that is used in Seurat package. With some parameters, you can already do some filtering steps here.
+
+```{r}
+xenopus <- CreateSeuratObject( 
+  counts = xenopus.data,  # Here you put your count matrix
+  project = "XenopusBioInfo2013",   # This is just a handy name attached to the object
+  min.cells = 3,  # At least 3 cells should have a particular gene expressed
+  min.features = 200 # At least a cell should have 200 genes detected to be included
+)
+```
+
+It is often helpful to pay attention to the warning signs that arise. Here you have two warning messages. Let's check what it means.
+
+First, "Feature names cannot have underscores". Are there genes that have underscores?
+
+```{r}
+# This is a common UNIX command that is appropriated to R
+grep("_", rownames(xenopus.data), value = T)
+```
+
+Yes, there are four gene names that contain a underscore. `hes5` sounds familiar, want to check whether there were any issues with this gene:
+
+```{r}
+grep("hes5", rownames(xenopus.data), value = T)
+```
+As you can see, there are 7 different feature names associated with `hes5`, more than the usual L and S forms. It might be helpful to go back and see whether they represent something in the JBrowser.
+
+
+Let's check the feature/gene names in the original count matrix loaded:
+
+```{r}
+rownames(xenopus.data) %>% head()
+```
+
+As you can see, the `cellranger` generated gene names have a format that contains "|". How many are there?
+
+```{r}
+grep("|", rownames(xenopus.data), value = T) %>% length()
+nrow(xenopus.data)
+```
+
+So the entire genes are named with this format, so with a warning, importing this count matrix to Seurat object the `CreateSeuratObject` function did the following:
+
+```{r}
+grep("hes5", rownames(xenopus), value = T)
+```
+
+There are two things here - one that that `gene134|hes5_X2.L` characters of "_" and "|" are all replaced to "-". 
+
+Quiz: Where are the other 6 `hes5` genes that were found in the original sparse count matrix?
+
+You can answer this here (by changing the Markdown file).
+
+
+We can also check the changes of cell numbers here during the import:
+
+```{r}
+ncol(xenopus.data)
+ncol(xenopus)
+```
+
+# Standard Pre-processing workflow
+
+Now we are trying to follow the excellent [tutorial from the Satijalab team](https://satijalab.org/seurat/articles/pbmc3k_tutorial.html) who developed the Seurat package:
+
+## QC and selecting cells for further analysis
+
+### Mitochondrial gene content
+
+This information is important in quality control measures. 
+
+```{r}
+grep("nd1", rownames(xenopus), value = T)
+```
+
+
+```{r}
+#xenopus[["percent.mt"]] <- PercentageFeatureSet(xenopus, )
+```
+
