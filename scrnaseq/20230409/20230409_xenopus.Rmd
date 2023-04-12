@@ -1017,6 +1017,9 @@ Now that the matrix is converted to character matrix, can add in as the first co
 
 ```{r}
 reference_to_export <- cbind( rownames(reference), ref)
+
+# Then change the colnames to include Genesymbol
+colnames(reference_to_export) <- c("Genesymbol", colnames(reference))
 ```
 
 
