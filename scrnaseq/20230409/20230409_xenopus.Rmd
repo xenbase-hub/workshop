@@ -928,11 +928,18 @@ You save any variable that is important. Explicitly selecting variables that wil
 
 ```{r}
 tictoc::tic()
-saveRDS( xenopus, file=glue::glue("{project.prefix}xenopusobject"))
+saveRDS( xenopus, file=glue::glue("{project.prefix}xenopusobject.rds"))
 tictoc::toc()
 ```
 
 # Deconvolution
+
+```{r}
+tictoc::tic()
+xenopus <- readRDS( file=glue::glue("{project.prefix}xenopusobject.rds"))
+tictoc::toc()
+```
+
 
 ## Deconvolution of Bulk RNA-seq data from scRNA-seq (CIBERSORTx)
 
@@ -976,19 +983,54 @@ Except for the early epithelial progenitor annotation, most have comparable numb
 ```{r}
 # Extract the count matrix from the scRNA-seq
 tictoc::tic()
-reference <- as.data.frame(as.matrix( GetAssayData( xenopus, slot = "counts" ) ))
+reference <- as.matrix( GetAssayData( xenopus, slot = "counts" ) )
 tictoc::toc()
+```
 
+```{r}
+# Make sure that the reference IDs are aligned
 ncol(reference)
 nrow(xenopus@meta.data)
 
-reference <- reference[intersect( rownames(xenopus), cpm$ID ), ]
+all(colnames(reference) == rownames(xenopus@meta.data)) # Assert TRUE!
+```
 
-reference %>% rownames_to_column("Genesymbol") %>% 
-  dplyr::select( "Genesymbol", everything() ) %>%
-  write_tsv( 
-    file= glue::glue("{project.prefix}reference.txt")
-  )
+
+```{r}
+colnames(reference) <- xenopus$annotation
+```
+
+```{r}
+# Only genes of interests
+reference <- reference[intersect( rownames(xenopus), cpm$ID ), ]
+```
+
+```{r}
+tictoc::tic()
+ref <- apply( reference, 2, as.character )
+tictoc::toc()
+
+head(ref[,1:10])
+```
+
+Now that the matrix is converted to character matrix, can add in as the first column the gene matrix.
+
+```{r}
+reference_to_export <- cbind( rownames(reference), ref)
+```
+
+
+
+```{r}
+tictoc::tic()
+write.table( 
+  reference_to_export, 
+  file=glue::glue("{project.prefix}reference.txt"),
+  sep = "\t",
+  quote=FALSE,
+  row.names = FALSE,  # We have the row names as the first column
+  col.names = TRUE
+)
 tictoc::toc()
 ```
 
